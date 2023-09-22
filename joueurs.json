@@ -1,0 +1,8002 @@
+[
+    {
+        "id": 1,
+        "nom": "Léonie Dubois",
+        "position": "Lanceur",
+        "AVG": 0.311,
+        "RBI": 35,
+        "valeur": 8
+    },
+    {
+        "id": 2,
+        "nom": "Aaron Mathieu",
+        "position": "Attrapeur",
+        "AVG": 0.302,
+        "RBI": 54,
+        "valeur": 6
+    },
+    {
+        "id": 3,
+        "nom": "Adèle Lefevre",
+        "position": "Lanceur",
+        "AVG": 0.204,
+        "RBI": 33,
+        "valeur": 8
+    },
+    {
+        "id": 4,
+        "nom": "Chloé Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.284,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 5,
+        "nom": "Marius Faure",
+        "position": "Batteur désigné",
+        "AVG": 0.242,
+        "RBI": 20,
+        "valeur": 7
+    },
+    {
+        "id": 6,
+        "nom": "Lola Lefevre",
+        "position": "Shortstop",
+        "AVG": 0.242,
+        "RBI": 33,
+        "valeur": 10
+    },
+    {
+        "id": 7,
+        "nom": "Gabin Richard",
+        "position": "Left fielder",
+        "AVG": 0.215,
+        "RBI": 42,
+        "valeur": 14
+    },
+    {
+        "id": 8,
+        "nom": "Martin Thomas",
+        "position": "Center fielder",
+        "AVG": 0.28,
+        "RBI": 44,
+        "valeur": 6
+    },
+    {
+        "id": 9,
+        "nom": "Juliette Fournier",
+        "position": "Batteur désigné",
+        "AVG": 0.333,
+        "RBI": 43,
+        "valeur": 14
+    },
+    {
+        "id": 10,
+        "nom": "Nathan Henry",
+        "position": "Attrapeur",
+        "AVG": 0.207,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 11,
+        "nom": "Liam Roux",
+        "position": "Attrapeur",
+        "AVG": 0.257,
+        "RBI": 49,
+        "valeur": 15
+    },
+    {
+        "id": 12,
+        "nom": "Augustin Simon",
+        "position": "Shortstop",
+        "AVG": 0.253,
+        "RBI": 37,
+        "valeur": 15
+    },
+    {
+        "id": 13,
+        "nom": "Romane Robert",
+        "position": "Batteur désigné",
+        "AVG": 0.295,
+        "RBI": 54,
+        "valeur": 8
+    },
+    {
+        "id": 14,
+        "nom": "Paul Andre",
+        "position": "Left fielder",
+        "AVG": 0.24,
+        "RBI": 60,
+        "valeur": 13
+    },
+    {
+        "id": 15,
+        "nom": "Marius Morin",
+        "position": "Shortstop",
+        "AVG": 0.326,
+        "RBI": 23,
+        "valeur": 8
+    },
+    {
+        "id": 16,
+        "nom": "Louis Bonnet",
+        "position": "Left fielder",
+        "AVG": 0.24,
+        "RBI": 33,
+        "valeur": 14
+    },
+    {
+        "id": 17,
+        "nom": "Charlotte Bonnet",
+        "position": "Deuxième base",
+        "AVG": 0.298,
+        "RBI": 45,
+        "valeur": 15
+    },
+    {
+        "id": 18,
+        "nom": "Anna Laurent",
+        "position": "Troisième base",
+        "AVG": 0.221,
+        "RBI": 55,
+        "valeur": 13
+    },
+    {
+        "id": 19,
+        "nom": "Martin Mathieu",
+        "position": "Batteur désigné",
+        "AVG": 0.264,
+        "RBI": 57,
+        "valeur": 11
+    },
+    {
+        "id": 20,
+        "nom": "Augustin Roux",
+        "position": "Première base",
+        "AVG": 0.276,
+        "RBI": 25,
+        "valeur": 5
+    },
+    {
+        "id": 21,
+        "nom": "Éden Laurent",
+        "position": "Première base",
+        "AVG": 0.319,
+        "RBI": 47,
+        "valeur": 14
+    },
+    {
+        "id": 22,
+        "nom": "Adam Rousseau",
+        "position": "Left fielder",
+        "AVG": 0.289,
+        "RBI": 49,
+        "valeur": 13
+    },
+    {
+        "id": 23,
+        "nom": "Gaspard Chevalier",
+        "position": "Lanceur",
+        "AVG": 0.302,
+        "RBI": 27,
+        "valeur": 15
+    },
+    {
+        "id": 24,
+        "nom": "Inaya Gautier",
+        "position": "Troisième base",
+        "AVG": 0.315,
+        "RBI": 41,
+        "valeur": 6
+    },
+    {
+        "id": 25,
+        "nom": "Elio Lefevre",
+        "position": "Première base",
+        "AVG": 0.268,
+        "RBI": 36,
+        "valeur": 13
+    },
+    {
+        "id": 26,
+        "nom": "Éléna Michel",
+        "position": "Right fielder",
+        "AVG": 0.337,
+        "RBI": 60,
+        "valeur": 9
+    },
+    {
+        "id": 27,
+        "nom": "Léonie Guerin",
+        "position": "Batteur désigné",
+        "AVG": 0.23,
+        "RBI": 43,
+        "valeur": 7
+    },
+    {
+        "id": 28,
+        "nom": "Charlie Masson",
+        "position": "Right fielder",
+        "AVG": 0.338,
+        "RBI": 58,
+        "valeur": 10
+    },
+    {
+        "id": 29,
+        "nom": "Lou Bernard",
+        "position": "Attrapeur",
+        "AVG": 0.339,
+        "RBI": 39,
+        "valeur": 8
+    },
+    {
+        "id": 30,
+        "nom": "Arthur David",
+        "position": "Batteur désigné",
+        "AVG": 0.342,
+        "RBI": 25,
+        "valeur": 12
+    },
+    {
+        "id": 31,
+        "nom": "Adam Gautier",
+        "position": "Right fielder",
+        "AVG": 0.315,
+        "RBI": 28,
+        "valeur": 15
+    },
+    {
+        "id": 32,
+        "nom": "Léna Chevalier",
+        "position": "Première base",
+        "AVG": 0.24,
+        "RBI": 58,
+        "valeur": 11
+    },
+    {
+        "id": 33,
+        "nom": "Nino Garnier",
+        "position": "Deuxième base",
+        "AVG": 0.307,
+        "RBI": 45,
+        "valeur": 15
+    },
+    {
+        "id": 34,
+        "nom": "Victoria Fontaine",
+        "position": "Center fielder",
+        "AVG": 0.335,
+        "RBI": 48,
+        "valeur": 6
+    },
+    {
+        "id": 35,
+        "nom": "Mathis Roux",
+        "position": "Attrapeur",
+        "AVG": 0.251,
+        "RBI": 57,
+        "valeur": 13
+    },
+    {
+        "id": 36,
+        "nom": "Ayden Legrand",
+        "position": "Deuxième base",
+        "AVG": 0.201,
+        "RBI": 60,
+        "valeur": 5
+    },
+    {
+        "id": 37,
+        "nom": "Ayden Robert",
+        "position": "Lanceur",
+        "AVG": 0.329,
+        "RBI": 24,
+        "valeur": 13
+    },
+    {
+        "id": 38,
+        "nom": "Malo Morel",
+        "position": "Center fielder",
+        "AVG": 0.232,
+        "RBI": 28,
+        "valeur": 14
+    },
+    {
+        "id": 39,
+        "nom": "Luna Mercier",
+        "position": "Deuxième base",
+        "AVG": 0.318,
+        "RBI": 46,
+        "valeur": 8
+    },
+    {
+        "id": 40,
+        "nom": "Isaac Durand",
+        "position": "Left fielder",
+        "AVG": 0.253,
+        "RBI": 46,
+        "valeur": 12
+    },
+    {
+        "id": 41,
+        "nom": "Sofia Petit",
+        "position": "Attrapeur",
+        "AVG": 0.209,
+        "RBI": 41,
+        "valeur": 6
+    },
+    {
+        "id": 42,
+        "nom": "Mathis Lefebvre",
+        "position": "Deuxième base",
+        "AVG": 0.28,
+        "RBI": 28,
+        "valeur": 11
+    },
+    {
+        "id": 43,
+        "nom": "Ethan Morel",
+        "position": "Center fielder",
+        "AVG": 0.237,
+        "RBI": 24,
+        "valeur": 12
+    },
+    {
+        "id": 44,
+        "nom": "Juliette Durand",
+        "position": "Lanceur",
+        "AVG": 0.298,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 45,
+        "nom": "Sacha Gautier",
+        "position": "Deuxième base",
+        "AVG": 0.225,
+        "RBI": 51,
+        "valeur": 12
+    },
+    {
+        "id": 46,
+        "nom": "Nino Vincent",
+        "position": "Lanceur",
+        "AVG": 0.225,
+        "RBI": 20,
+        "valeur": 11
+    },
+    {
+        "id": 47,
+        "nom": "Martin Andre",
+        "position": "Troisième base",
+        "AVG": 0.263,
+        "RBI": 55,
+        "valeur": 15
+    },
+    {
+        "id": 48,
+        "nom": "Charlotte Blanc",
+        "position": "Première base",
+        "AVG": 0.228,
+        "RBI": 33,
+        "valeur": 5
+    },
+    {
+        "id": 49,
+        "nom": "Giulia Mathieu",
+        "position": "Right fielder",
+        "AVG": 0.209,
+        "RBI": 40,
+        "valeur": 5
+    },
+    {
+        "id": 50,
+        "nom": "Jules Legrand",
+        "position": "Center fielder",
+        "AVG": 0.275,
+        "RBI": 53,
+        "valeur": 7
+    },
+    {
+        "id": 51,
+        "nom": "Arthur Guerin",
+        "position": "Attrapeur",
+        "AVG": 0.328,
+        "RBI": 24,
+        "valeur": 14
+    },
+    {
+        "id": 52,
+        "nom": "Adam Morin",
+        "position": "Deuxième base",
+        "AVG": 0.261,
+        "RBI": 56,
+        "valeur": 8
+    },
+    {
+        "id": 53,
+        "nom": "Giulia Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.293,
+        "RBI": 46,
+        "valeur": 15
+    },
+    {
+        "id": 54,
+        "nom": "Giulia Francois",
+        "position": "Right fielder",
+        "AVG": 0.247,
+        "RBI": 36,
+        "valeur": 8
+    },
+    {
+        "id": 55,
+        "nom": "Lya Henry",
+        "position": "Shortstop",
+        "AVG": 0.236,
+        "RBI": 45,
+        "valeur": 7
+    },
+    {
+        "id": 56,
+        "nom": "Lya Robin",
+        "position": "Troisième base",
+        "AVG": 0.269,
+        "RBI": 24,
+        "valeur": 5
+    },
+    {
+        "id": 57,
+        "nom": "Anna Garcia",
+        "position": "Batteur désigné",
+        "AVG": 0.349,
+        "RBI": 24,
+        "valeur": 13
+    },
+    {
+        "id": 58,
+        "nom": "Nino Guerin",
+        "position": "Troisième base",
+        "AVG": 0.22,
+        "RBI": 42,
+        "valeur": 6
+    },
+    {
+        "id": 59,
+        "nom": "Mathis Fontaine",
+        "position": "Troisième base",
+        "AVG": 0.224,
+        "RBI": 54,
+        "valeur": 9
+    },
+    {
+        "id": 60,
+        "nom": "Éva Robin",
+        "position": "Right fielder",
+        "AVG": 0.201,
+        "RBI": 55,
+        "valeur": 9
+    },
+    {
+        "id": 61,
+        "nom": "Nour Durand",
+        "position": "Première base",
+        "AVG": 0.24,
+        "RBI": 26,
+        "valeur": 13
+    },
+    {
+        "id": 62,
+        "nom": "Léon Morel",
+        "position": "Troisième base",
+        "AVG": 0.291,
+        "RBI": 41,
+        "valeur": 8
+    },
+    {
+        "id": 63,
+        "nom": "Lucie Perrin",
+        "position": "Troisième base",
+        "AVG": 0.276,
+        "RBI": 36,
+        "valeur": 5
+    },
+    {
+        "id": 64,
+        "nom": "Sacha Perrin",
+        "position": "Left fielder",
+        "AVG": 0.324,
+        "RBI": 22,
+        "valeur": 5
+    },
+    {
+        "id": 65,
+        "nom": "Tiago Masson",
+        "position": "Première base",
+        "AVG": 0.296,
+        "RBI": 36,
+        "valeur": 7
+    },
+    {
+        "id": 66,
+        "nom": "Louna Faure",
+        "position": "Right fielder",
+        "AVG": 0.306,
+        "RBI": 55,
+        "valeur": 5
+    },
+    {
+        "id": 67,
+        "nom": "Éden Robert",
+        "position": "Première base",
+        "AVG": 0.282,
+        "RBI": 43,
+        "valeur": 14
+    },
+    {
+        "id": 68,
+        "nom": "Juliette Laurent",
+        "position": "Left fielder",
+        "AVG": 0.219,
+        "RBI": 39,
+        "valeur": 10
+    },
+    {
+        "id": 69,
+        "nom": "Noah Lambert",
+        "position": "Deuxième base",
+        "AVG": 0.302,
+        "RBI": 26,
+        "valeur": 10
+    },
+    {
+        "id": 70,
+        "nom": "Mya Chevalier",
+        "position": "Left fielder",
+        "AVG": 0.346,
+        "RBI": 29,
+        "valeur": 8
+    },
+    {
+        "id": 71,
+        "nom": "Paul Michel",
+        "position": "Left fielder",
+        "AVG": 0.204,
+        "RBI": 41,
+        "valeur": 11
+    },
+    {
+        "id": 72,
+        "nom": "Lya Mathieu",
+        "position": "Deuxième base",
+        "AVG": 0.24,
+        "RBI": 26,
+        "valeur": 11
+    },
+    {
+        "id": 73,
+        "nom": "Louis Mercier",
+        "position": "Deuxième base",
+        "AVG": 0.23,
+        "RBI": 49,
+        "valeur": 10
+    },
+    {
+        "id": 74,
+        "nom": "Eliott Roux",
+        "position": "Deuxième base",
+        "AVG": 0.204,
+        "RBI": 32,
+        "valeur": 11
+    },
+    {
+        "id": 75,
+        "nom": "Tiago Morel",
+        "position": "Attrapeur",
+        "AVG": 0.345,
+        "RBI": 37,
+        "valeur": 10
+    },
+    {
+        "id": 76,
+        "nom": "Romane Guerin",
+        "position": "Left fielder",
+        "AVG": 0.302,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 77,
+        "nom": "Maël Dubois",
+        "position": "Troisième base",
+        "AVG": 0.227,
+        "RBI": 36,
+        "valeur": 5
+    },
+    {
+        "id": 78,
+        "nom": "Gabin Gauthier",
+        "position": "Left fielder",
+        "AVG": 0.252,
+        "RBI": 40,
+        "valeur": 11
+    },
+    {
+        "id": 79,
+        "nom": "Nina Guerin",
+        "position": "Attrapeur",
+        "AVG": 0.258,
+        "RBI": 56,
+        "valeur": 8
+    },
+    {
+        "id": 80,
+        "nom": "Gaspard Thomas",
+        "position": "Left fielder",
+        "AVG": 0.2,
+        "RBI": 54,
+        "valeur": 15
+    },
+    {
+        "id": 81,
+        "nom": "Mila Mathieu",
+        "position": "Deuxième base",
+        "AVG": 0.255,
+        "RBI": 24,
+        "valeur": 15
+    },
+    {
+        "id": 82,
+        "nom": "Tiago Garcia",
+        "position": "Shortstop",
+        "AVG": 0.3,
+        "RBI": 27,
+        "valeur": 9
+    },
+    {
+        "id": 83,
+        "nom": "Chloé Girard",
+        "position": "Left fielder",
+        "AVG": 0.249,
+        "RBI": 38,
+        "valeur": 13
+    },
+    {
+        "id": 84,
+        "nom": "Naël Lefebvre",
+        "position": "Left fielder",
+        "AVG": 0.3,
+        "RBI": 44,
+        "valeur": 15
+    },
+    {
+        "id": 85,
+        "nom": "Margaux Michel",
+        "position": "Batteur désigné",
+        "AVG": 0.285,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 86,
+        "nom": "Gabriel Girard",
+        "position": "Troisième base",
+        "AVG": 0.232,
+        "RBI": 57,
+        "valeur": 14
+    },
+    {
+        "id": 87,
+        "nom": "Victoria Bonnet",
+        "position": "Center fielder",
+        "AVG": 0.266,
+        "RBI": 33,
+        "valeur": 13
+    },
+    {
+        "id": 88,
+        "nom": "Léna Mathieu",
+        "position": "Première base",
+        "AVG": 0.299,
+        "RBI": 38,
+        "valeur": 13
+    },
+    {
+        "id": 89,
+        "nom": "Nour Perrin",
+        "position": "Batteur désigné",
+        "AVG": 0.25,
+        "RBI": 35,
+        "valeur": 15
+    },
+    {
+        "id": 90,
+        "nom": "Eliott Roux",
+        "position": "Deuxième base",
+        "AVG": 0.222,
+        "RBI": 22,
+        "valeur": 8
+    },
+    {
+        "id": 91,
+        "nom": "Léna Garcia",
+        "position": "Attrapeur",
+        "AVG": 0.268,
+        "RBI": 60,
+        "valeur": 14
+    },
+    {
+        "id": 92,
+        "nom": "Nathan Henry",
+        "position": "Left fielder",
+        "AVG": 0.274,
+        "RBI": 35,
+        "valeur": 7
+    },
+    {
+        "id": 93,
+        "nom": "Victoria Nicolas",
+        "position": "Lanceur",
+        "AVG": 0.334,
+        "RBI": 26,
+        "valeur": 11
+    },
+    {
+        "id": 94,
+        "nom": "Marius Michel",
+        "position": "Right fielder",
+        "AVG": 0.27,
+        "RBI": 55,
+        "valeur": 8
+    },
+    {
+        "id": 95,
+        "nom": "Hugo Andre",
+        "position": "Première base",
+        "AVG": 0.32,
+        "RBI": 53,
+        "valeur": 13
+    },
+    {
+        "id": 96,
+        "nom": "Jeanne Bonnet",
+        "position": "Center fielder",
+        "AVG": 0.292,
+        "RBI": 52,
+        "valeur": 11
+    },
+    {
+        "id": 97,
+        "nom": "Juliette Faure",
+        "position": "Première base",
+        "AVG": 0.312,
+        "RBI": 50,
+        "valeur": 12
+    },
+    {
+        "id": 98,
+        "nom": "Martin Gautier",
+        "position": "Deuxième base",
+        "AVG": 0.326,
+        "RBI": 37,
+        "valeur": 13
+    },
+    {
+        "id": 99,
+        "nom": "Lou Perrin",
+        "position": "Deuxième base",
+        "AVG": 0.241,
+        "RBI": 24,
+        "valeur": 9
+    },
+    {
+        "id": 100,
+        "nom": "Malo Morel",
+        "position": "Shortstop",
+        "AVG": 0.248,
+        "RBI": 54,
+        "valeur": 6
+    },
+    {
+        "id": 101,
+        "nom": "Aaron Laurent",
+        "position": "Deuxième base",
+        "AVG": 0.257,
+        "RBI": 29,
+        "valeur": 8
+    },
+    {
+        "id": 102,
+        "nom": "Adam Muller",
+        "position": "Left fielder",
+        "AVG": 0.25,
+        "RBI": 49,
+        "valeur": 11
+    },
+    {
+        "id": 103,
+        "nom": "Arthur Leroy",
+        "position": "Left fielder",
+        "AVG": 0.258,
+        "RBI": 57,
+        "valeur": 5
+    },
+    {
+        "id": 104,
+        "nom": "Éléna Francois",
+        "position": "Left fielder",
+        "AVG": 0.272,
+        "RBI": 42,
+        "valeur": 9
+    },
+    {
+        "id": 105,
+        "nom": "Ava Rousseau",
+        "position": "Left fielder",
+        "AVG": 0.281,
+        "RBI": 54,
+        "valeur": 14
+    },
+    {
+        "id": 106,
+        "nom": "Marius Blanc",
+        "position": "Deuxième base",
+        "AVG": 0.241,
+        "RBI": 51,
+        "valeur": 5
+    },
+    {
+        "id": 107,
+        "nom": "Imran Dupont",
+        "position": "Left fielder",
+        "AVG": 0.309,
+        "RBI": 49,
+        "valeur": 7
+    },
+    {
+        "id": 108,
+        "nom": "Olivia Garnier",
+        "position": "Lanceur",
+        "AVG": 0.336,
+        "RBI": 57,
+        "valeur": 14
+    },
+    {
+        "id": 109,
+        "nom": "Nour Bernard",
+        "position": "Attrapeur",
+        "AVG": 0.296,
+        "RBI": 28,
+        "valeur": 12
+    },
+    {
+        "id": 110,
+        "nom": "Ethan Petit",
+        "position": "Troisième base",
+        "AVG": 0.257,
+        "RBI": 33,
+        "valeur": 12
+    },
+    {
+        "id": 111,
+        "nom": "Robin Dupont",
+        "position": "Left fielder",
+        "AVG": 0.242,
+        "RBI": 46,
+        "valeur": 9
+    },
+    {
+        "id": 112,
+        "nom": "Liam Mercier",
+        "position": "Lanceur",
+        "AVG": 0.312,
+        "RBI": 23,
+        "valeur": 10
+    },
+    {
+        "id": 113,
+        "nom": "Marius Robin",
+        "position": "Attrapeur",
+        "AVG": 0.317,
+        "RBI": 22,
+        "valeur": 5
+    },
+    {
+        "id": 114,
+        "nom": "Mathis Lefebvre",
+        "position": "Lanceur",
+        "AVG": 0.293,
+        "RBI": 35,
+        "valeur": 7
+    },
+    {
+        "id": 115,
+        "nom": "Léna Clement",
+        "position": "Attrapeur",
+        "AVG": 0.285,
+        "RBI": 33,
+        "valeur": 12
+    },
+    {
+        "id": 116,
+        "nom": "Lola Bertrand",
+        "position": "Shortstop",
+        "AVG": 0.225,
+        "RBI": 58,
+        "valeur": 6
+    },
+    {
+        "id": 117,
+        "nom": "Mya Simon",
+        "position": "Troisième base",
+        "AVG": 0.216,
+        "RBI": 21,
+        "valeur": 9
+    },
+    {
+        "id": 118,
+        "nom": "Luna Morin",
+        "position": "Left fielder",
+        "AVG": 0.259,
+        "RBI": 32,
+        "valeur": 6
+    },
+    {
+        "id": 119,
+        "nom": "Adèle Nicolas",
+        "position": "Deuxième base",
+        "AVG": 0.215,
+        "RBI": 39,
+        "valeur": 15
+    },
+    {
+        "id": 120,
+        "nom": "Jeanne Dubois",
+        "position": "Batteur désigné",
+        "AVG": 0.317,
+        "RBI": 42,
+        "valeur": 13
+    },
+    {
+        "id": 121,
+        "nom": "Emma Clement",
+        "position": "Shortstop",
+        "AVG": 0.21,
+        "RBI": 41,
+        "valeur": 5
+    },
+    {
+        "id": 122,
+        "nom": "Alba Blanc",
+        "position": "Attrapeur",
+        "AVG": 0.265,
+        "RBI": 43,
+        "valeur": 15
+    },
+    {
+        "id": 123,
+        "nom": "Anna Henry",
+        "position": "Première base",
+        "AVG": 0.265,
+        "RBI": 53,
+        "valeur": 15
+    },
+    {
+        "id": 124,
+        "nom": "Lyam Garcia",
+        "position": "Right fielder",
+        "AVG": 0.316,
+        "RBI": 49,
+        "valeur": 11
+    },
+    {
+        "id": 125,
+        "nom": "Sofia Legrand",
+        "position": "Troisième base",
+        "AVG": 0.248,
+        "RBI": 35,
+        "valeur": 6
+    },
+    {
+        "id": 126,
+        "nom": "Victor Faure",
+        "position": "Deuxième base",
+        "AVG": 0.313,
+        "RBI": 56,
+        "valeur": 14
+    },
+    {
+        "id": 127,
+        "nom": "Lya Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.204,
+        "RBI": 40,
+        "valeur": 7
+    },
+    {
+        "id": 128,
+        "nom": "Lou Leroy",
+        "position": "Shortstop",
+        "AVG": 0.32,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 129,
+        "nom": "Jeanne Nicolas",
+        "position": "Troisième base",
+        "AVG": 0.283,
+        "RBI": 53,
+        "valeur": 8
+    },
+    {
+        "id": 130,
+        "nom": "Liam David",
+        "position": "Left fielder",
+        "AVG": 0.273,
+        "RBI": 35,
+        "valeur": 12
+    },
+    {
+        "id": 131,
+        "nom": "Romane Henry",
+        "position": "Center fielder",
+        "AVG": 0.267,
+        "RBI": 21,
+        "valeur": 6
+    },
+    {
+        "id": 132,
+        "nom": "Elio Roux",
+        "position": "Left fielder",
+        "AVG": 0.304,
+        "RBI": 39,
+        "valeur": 15
+    },
+    {
+        "id": 133,
+        "nom": "Giulia Fontaine",
+        "position": "Center fielder",
+        "AVG": 0.283,
+        "RBI": 42,
+        "valeur": 11
+    },
+    {
+        "id": 134,
+        "nom": "Margaux Chevalier",
+        "position": "Shortstop",
+        "AVG": 0.253,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 135,
+        "nom": "Eliott Bertrand",
+        "position": "Deuxième base",
+        "AVG": 0.218,
+        "RBI": 32,
+        "valeur": 10
+    },
+    {
+        "id": 136,
+        "nom": "Hugo Mathieu",
+        "position": "Right fielder",
+        "AVG": 0.343,
+        "RBI": 31,
+        "valeur": 8
+    },
+    {
+        "id": 137,
+        "nom": "Nino Mathieu",
+        "position": "Center fielder",
+        "AVG": 0.241,
+        "RBI": 57,
+        "valeur": 13
+    },
+    {
+        "id": 138,
+        "nom": "Jeanne Fournier",
+        "position": "Attrapeur",
+        "AVG": 0.325,
+        "RBI": 38,
+        "valeur": 8
+    },
+    {
+        "id": 139,
+        "nom": "Augustin Michel",
+        "position": "Troisième base",
+        "AVG": 0.202,
+        "RBI": 54,
+        "valeur": 7
+    },
+    {
+        "id": 140,
+        "nom": "Victor Thomas",
+        "position": "Lanceur",
+        "AVG": 0.283,
+        "RBI": 28,
+        "valeur": 15
+    },
+    {
+        "id": 141,
+        "nom": "Ava Blanc",
+        "position": "Attrapeur",
+        "AVG": 0.331,
+        "RBI": 56,
+        "valeur": 9
+    },
+    {
+        "id": 142,
+        "nom": "Léna Mercier",
+        "position": "Center fielder",
+        "AVG": 0.251,
+        "RBI": 23,
+        "valeur": 9
+    },
+    {
+        "id": 143,
+        "nom": "Mia Dubois",
+        "position": "Attrapeur",
+        "AVG": 0.26,
+        "RBI": 24,
+        "valeur": 14
+    },
+    {
+        "id": 144,
+        "nom": "Zoé Morin",
+        "position": "Lanceur",
+        "AVG": 0.223,
+        "RBI": 56,
+        "valeur": 9
+    },
+    {
+        "id": 145,
+        "nom": "Liam David",
+        "position": "Attrapeur",
+        "AVG": 0.284,
+        "RBI": 46,
+        "valeur": 14
+    },
+    {
+        "id": 146,
+        "nom": "Jeanne Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.316,
+        "RBI": 44,
+        "valeur": 12
+    },
+    {
+        "id": 147,
+        "nom": "Alice Girard",
+        "position": "Batteur désigné",
+        "AVG": 0.349,
+        "RBI": 39,
+        "valeur": 14
+    },
+    {
+        "id": 148,
+        "nom": "Olivia Petit",
+        "position": "Batteur désigné",
+        "AVG": 0.344,
+        "RBI": 26,
+        "valeur": 8
+    },
+    {
+        "id": 149,
+        "nom": "Zoé Leroy",
+        "position": "Troisième base",
+        "AVG": 0.299,
+        "RBI": 30,
+        "valeur": 8
+    },
+    {
+        "id": 150,
+        "nom": "Marceau Chevalier",
+        "position": "Attrapeur",
+        "AVG": 0.223,
+        "RBI": 46,
+        "valeur": 12
+    },
+    {
+        "id": 151,
+        "nom": "Lyana Gauthier",
+        "position": "Center fielder",
+        "AVG": 0.244,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 152,
+        "nom": "Alix Fournier",
+        "position": "Center fielder",
+        "AVG": 0.211,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 153,
+        "nom": "Zoé Legrand",
+        "position": "Deuxième base",
+        "AVG": 0.264,
+        "RBI": 54,
+        "valeur": 8
+    },
+    {
+        "id": 154,
+        "nom": "Romane Laurent",
+        "position": "Troisième base",
+        "AVG": 0.324,
+        "RBI": 24,
+        "valeur": 5
+    },
+    {
+        "id": 155,
+        "nom": "Noé Girard",
+        "position": "Batteur désigné",
+        "AVG": 0.312,
+        "RBI": 56,
+        "valeur": 9
+    },
+    {
+        "id": 156,
+        "nom": "Alice Dubois",
+        "position": "Center fielder",
+        "AVG": 0.303,
+        "RBI": 45,
+        "valeur": 9
+    },
+    {
+        "id": 157,
+        "nom": "Chloé Garnier",
+        "position": "Center fielder",
+        "AVG": 0.266,
+        "RBI": 58,
+        "valeur": 5
+    },
+    {
+        "id": 158,
+        "nom": "Rose Mathieu",
+        "position": "Shortstop",
+        "AVG": 0.291,
+        "RBI": 21,
+        "valeur": 6
+    },
+    {
+        "id": 159,
+        "nom": "Ayden Morin",
+        "position": "Batteur désigné",
+        "AVG": 0.288,
+        "RBI": 21,
+        "valeur": 15
+    },
+    {
+        "id": 160,
+        "nom": "Lyam Francois",
+        "position": "Lanceur",
+        "AVG": 0.314,
+        "RBI": 31,
+        "valeur": 12
+    },
+    {
+        "id": 161,
+        "nom": "Agathe Robin",
+        "position": "Center fielder",
+        "AVG": 0.337,
+        "RBI": 31,
+        "valeur": 14
+    },
+    {
+        "id": 162,
+        "nom": "Rose Perrin",
+        "position": "Center fielder",
+        "AVG": 0.345,
+        "RBI": 50,
+        "valeur": 10
+    },
+    {
+        "id": 163,
+        "nom": "Ambre Dupont",
+        "position": "Shortstop",
+        "AVG": 0.301,
+        "RBI": 30,
+        "valeur": 10
+    },
+    {
+        "id": 164,
+        "nom": "Ambre Nicolas",
+        "position": "Center fielder",
+        "AVG": 0.243,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 165,
+        "nom": "Louis Andre",
+        "position": "Attrapeur",
+        "AVG": 0.247,
+        "RBI": 40,
+        "valeur": 6
+    },
+    {
+        "id": 166,
+        "nom": "Emy Vincent",
+        "position": "Right fielder",
+        "AVG": 0.324,
+        "RBI": 20,
+        "valeur": 15
+    },
+    {
+        "id": 167,
+        "nom": "Charlie Andre",
+        "position": "Left fielder",
+        "AVG": 0.208,
+        "RBI": 53,
+        "valeur": 10
+    },
+    {
+        "id": 168,
+        "nom": "Olivia Gautier",
+        "position": "Center fielder",
+        "AVG": 0.294,
+        "RBI": 23,
+        "valeur": 8
+    },
+    {
+        "id": 169,
+        "nom": "Lyam Chevalier",
+        "position": "Première base",
+        "AVG": 0.339,
+        "RBI": 48,
+        "valeur": 12
+    },
+    {
+        "id": 170,
+        "nom": "Hugo Bernard",
+        "position": "Batteur désigné",
+        "AVG": 0.32,
+        "RBI": 30,
+        "valeur": 9
+    },
+    {
+        "id": 171,
+        "nom": "Juliette Martin",
+        "position": "Right fielder",
+        "AVG": 0.261,
+        "RBI": 34,
+        "valeur": 6
+    },
+    {
+        "id": 172,
+        "nom": "Lina Dubois",
+        "position": "Première base",
+        "AVG": 0.275,
+        "RBI": 38,
+        "valeur": 13
+    },
+    {
+        "id": 173,
+        "nom": "Alix Morel",
+        "position": "Left fielder",
+        "AVG": 0.325,
+        "RBI": 50,
+        "valeur": 8
+    },
+    {
+        "id": 174,
+        "nom": "Anna Chevalier",
+        "position": "Première base",
+        "AVG": 0.258,
+        "RBI": 58,
+        "valeur": 13
+    },
+    {
+        "id": 175,
+        "nom": "Margaux Moreau",
+        "position": "Attrapeur",
+        "AVG": 0.241,
+        "RBI": 46,
+        "valeur": 10
+    },
+    {
+        "id": 176,
+        "nom": "Chloé Morel",
+        "position": "Lanceur",
+        "AVG": 0.242,
+        "RBI": 39,
+        "valeur": 14
+    },
+    {
+        "id": 177,
+        "nom": "Giulia Clement",
+        "position": "Center fielder",
+        "AVG": 0.33,
+        "RBI": 48,
+        "valeur": 13
+    },
+    {
+        "id": 178,
+        "nom": "Mia Lambert",
+        "position": "Shortstop",
+        "AVG": 0.283,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 179,
+        "nom": "Anna Bonnet",
+        "position": "Deuxième base",
+        "AVG": 0.347,
+        "RBI": 35,
+        "valeur": 14
+    },
+    {
+        "id": 180,
+        "nom": "Imran Roux",
+        "position": "Left fielder",
+        "AVG": 0.207,
+        "RBI": 50,
+        "valeur": 11
+    },
+    {
+        "id": 181,
+        "nom": "Imran Clement",
+        "position": "Première base",
+        "AVG": 0.274,
+        "RBI": 22,
+        "valeur": 7
+    },
+    {
+        "id": 182,
+        "nom": "Chloé Legrand",
+        "position": "Shortstop",
+        "AVG": 0.33,
+        "RBI": 48,
+        "valeur": 6
+    },
+    {
+        "id": 183,
+        "nom": "Iris Andre",
+        "position": "Lanceur",
+        "AVG": 0.308,
+        "RBI": 46,
+        "valeur": 15
+    },
+    {
+        "id": 184,
+        "nom": "Léon Robert",
+        "position": "Center fielder",
+        "AVG": 0.317,
+        "RBI": 36,
+        "valeur": 10
+    },
+    {
+        "id": 185,
+        "nom": "Olivia Nicolas",
+        "position": "Left fielder",
+        "AVG": 0.297,
+        "RBI": 41,
+        "valeur": 15
+    },
+    {
+        "id": 186,
+        "nom": "Inaya Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.294,
+        "RBI": 51,
+        "valeur": 13
+    },
+    {
+        "id": 187,
+        "nom": "Louis Garcia",
+        "position": "Attrapeur",
+        "AVG": 0.235,
+        "RBI": 38,
+        "valeur": 8
+    },
+    {
+        "id": 188,
+        "nom": "Margaux Richard",
+        "position": "Left fielder",
+        "AVG": 0.347,
+        "RBI": 60,
+        "valeur": 6
+    },
+    {
+        "id": 189,
+        "nom": "Alice Simon",
+        "position": "Troisième base",
+        "AVG": 0.336,
+        "RBI": 22,
+        "valeur": 10
+    },
+    {
+        "id": 190,
+        "nom": "Arthur Fournier",
+        "position": "Shortstop",
+        "AVG": 0.256,
+        "RBI": 29,
+        "valeur": 8
+    },
+    {
+        "id": 191,
+        "nom": "Iris Muller",
+        "position": "Batteur désigné",
+        "AVG": 0.302,
+        "RBI": 31,
+        "valeur": 7
+    },
+    {
+        "id": 192,
+        "nom": "Marceau Richard",
+        "position": "Batteur désigné",
+        "AVG": 0.331,
+        "RBI": 59,
+        "valeur": 15
+    },
+    {
+        "id": 193,
+        "nom": "Malo Blanc",
+        "position": "Batteur désigné",
+        "AVG": 0.221,
+        "RBI": 49,
+        "valeur": 15
+    },
+    {
+        "id": 194,
+        "nom": "Gaspard Andre",
+        "position": "Troisième base",
+        "AVG": 0.3,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 195,
+        "nom": "Inès Garnier",
+        "position": "Première base",
+        "AVG": 0.211,
+        "RBI": 42,
+        "valeur": 14
+    },
+    {
+        "id": 196,
+        "nom": "Timéo Perrin",
+        "position": "Left fielder",
+        "AVG": 0.304,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 197,
+        "nom": "Théo Rousseau",
+        "position": "Center fielder",
+        "AVG": 0.216,
+        "RBI": 44,
+        "valeur": 14
+    },
+    {
+        "id": 198,
+        "nom": "Axel Francois",
+        "position": "Troisième base",
+        "AVG": 0.349,
+        "RBI": 38,
+        "valeur": 5
+    },
+    {
+        "id": 199,
+        "nom": "Nour Vincent",
+        "position": "Troisième base",
+        "AVG": 0.201,
+        "RBI": 23,
+        "valeur": 14
+    },
+    {
+        "id": 200,
+        "nom": "Margaux Blanc",
+        "position": "Troisième base",
+        "AVG": 0.316,
+        "RBI": 34,
+        "valeur": 14
+    },
+    {
+        "id": 201,
+        "nom": "Axel Roux",
+        "position": "Deuxième base",
+        "AVG": 0.293,
+        "RBI": 28,
+        "valeur": 15
+    },
+    {
+        "id": 202,
+        "nom": "Isaac Perrin",
+        "position": "Lanceur",
+        "AVG": 0.246,
+        "RBI": 48,
+        "valeur": 5
+    },
+    {
+        "id": 203,
+        "nom": "Giulia Fontaine",
+        "position": "Première base",
+        "AVG": 0.214,
+        "RBI": 38,
+        "valeur": 10
+    },
+    {
+        "id": 204,
+        "nom": "Margaux Muller",
+        "position": "Première base",
+        "AVG": 0.23,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 205,
+        "nom": "Iris Guerin",
+        "position": "Troisième base",
+        "AVG": 0.325,
+        "RBI": 36,
+        "valeur": 12
+    },
+    {
+        "id": 206,
+        "nom": "Elio Mathieu",
+        "position": "Shortstop",
+        "AVG": 0.321,
+        "RBI": 49,
+        "valeur": 6
+    },
+    {
+        "id": 207,
+        "nom": "Mohamed Gautier",
+        "position": "Deuxième base",
+        "AVG": 0.329,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 208,
+        "nom": "Augustin Richard",
+        "position": "Left fielder",
+        "AVG": 0.202,
+        "RBI": 54,
+        "valeur": 6
+    },
+    {
+        "id": 209,
+        "nom": "Anna Fontaine",
+        "position": "Troisième base",
+        "AVG": 0.288,
+        "RBI": 60,
+        "valeur": 10
+    },
+    {
+        "id": 210,
+        "nom": "Gabin Morin",
+        "position": "Deuxième base",
+        "AVG": 0.271,
+        "RBI": 59,
+        "valeur": 13
+    },
+    {
+        "id": 211,
+        "nom": "Robin Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.297,
+        "RBI": 60,
+        "valeur": 12
+    },
+    {
+        "id": 212,
+        "nom": "Lola Girard",
+        "position": "Left fielder",
+        "AVG": 0.218,
+        "RBI": 22,
+        "valeur": 5
+    },
+    {
+        "id": 213,
+        "nom": "Timéo Blanc",
+        "position": "Attrapeur",
+        "AVG": 0.215,
+        "RBI": 54,
+        "valeur": 7
+    },
+    {
+        "id": 214,
+        "nom": "Imran Andre",
+        "position": "Shortstop",
+        "AVG": 0.301,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 215,
+        "nom": "Adèle Mathieu",
+        "position": "Première base",
+        "AVG": 0.333,
+        "RBI": 26,
+        "valeur": 12
+    },
+    {
+        "id": 216,
+        "nom": "Éva Muller",
+        "position": "Troisième base",
+        "AVG": 0.205,
+        "RBI": 43,
+        "valeur": 8
+    },
+    {
+        "id": 217,
+        "nom": "Alice Faure",
+        "position": "Deuxième base",
+        "AVG": 0.328,
+        "RBI": 26,
+        "valeur": 15
+    },
+    {
+        "id": 218,
+        "nom": "Amir Garnier",
+        "position": "Shortstop",
+        "AVG": 0.209,
+        "RBI": 37,
+        "valeur": 8
+    },
+    {
+        "id": 219,
+        "nom": "Hugo Andre",
+        "position": "Attrapeur",
+        "AVG": 0.299,
+        "RBI": 60,
+        "valeur": 14
+    },
+    {
+        "id": 220,
+        "nom": "Raphaël Petit",
+        "position": "Shortstop",
+        "AVG": 0.237,
+        "RBI": 28,
+        "valeur": 14
+    },
+    {
+        "id": 221,
+        "nom": "Tom Robert",
+        "position": "Right fielder",
+        "AVG": 0.231,
+        "RBI": 33,
+        "valeur": 8
+    },
+    {
+        "id": 222,
+        "nom": "Tiago Masson",
+        "position": "Première base",
+        "AVG": 0.318,
+        "RBI": 58,
+        "valeur": 5
+    },
+    {
+        "id": 223,
+        "nom": "Victor Laurent",
+        "position": "Première base",
+        "AVG": 0.281,
+        "RBI": 31,
+        "valeur": 6
+    },
+    {
+        "id": 224,
+        "nom": "Nour Bernard",
+        "position": "Première base",
+        "AVG": 0.202,
+        "RBI": 35,
+        "valeur": 14
+    },
+    {
+        "id": 225,
+        "nom": "Robin Bernard",
+        "position": "Première base",
+        "AVG": 0.24,
+        "RBI": 28,
+        "valeur": 11
+    },
+    {
+        "id": 226,
+        "nom": "Iris Dubois",
+        "position": "Attrapeur",
+        "AVG": 0.271,
+        "RBI": 43,
+        "valeur": 13
+    },
+    {
+        "id": 227,
+        "nom": "Adèle Durand",
+        "position": "Center fielder",
+        "AVG": 0.276,
+        "RBI": 59,
+        "valeur": 5
+    },
+    {
+        "id": 228,
+        "nom": "Sofia Clement",
+        "position": "Right fielder",
+        "AVG": 0.245,
+        "RBI": 21,
+        "valeur": 5
+    },
+    {
+        "id": 229,
+        "nom": "Mia Vincent",
+        "position": "Left fielder",
+        "AVG": 0.303,
+        "RBI": 51,
+        "valeur": 12
+    },
+    {
+        "id": 230,
+        "nom": "Lucas Richard",
+        "position": "Shortstop",
+        "AVG": 0.291,
+        "RBI": 24,
+        "valeur": 7
+    },
+    {
+        "id": 231,
+        "nom": "Victor Garcia",
+        "position": "Batteur désigné",
+        "AVG": 0.282,
+        "RBI": 40,
+        "valeur": 11
+    },
+    {
+        "id": 232,
+        "nom": "Jeanne Boyer",
+        "position": "Troisième base",
+        "AVG": 0.268,
+        "RBI": 58,
+        "valeur": 11
+    },
+    {
+        "id": 233,
+        "nom": "Isaac Nicolas",
+        "position": "Attrapeur",
+        "AVG": 0.328,
+        "RBI": 55,
+        "valeur": 8
+    },
+    {
+        "id": 234,
+        "nom": "Rose Faure",
+        "position": "Deuxième base",
+        "AVG": 0.262,
+        "RBI": 49,
+        "valeur": 11
+    },
+    {
+        "id": 235,
+        "nom": "Alba Roussel",
+        "position": "Attrapeur",
+        "AVG": 0.247,
+        "RBI": 40,
+        "valeur": 15
+    },
+    {
+        "id": 236,
+        "nom": "Gaspard Fontaine",
+        "position": "Première base",
+        "AVG": 0.303,
+        "RBI": 50,
+        "valeur": 6
+    },
+    {
+        "id": 237,
+        "nom": "Sacha Richard",
+        "position": "Attrapeur",
+        "AVG": 0.265,
+        "RBI": 43,
+        "valeur": 7
+    },
+    {
+        "id": 238,
+        "nom": "Léa Petit",
+        "position": "Batteur désigné",
+        "AVG": 0.343,
+        "RBI": 55,
+        "valeur": 10
+    },
+    {
+        "id": 239,
+        "nom": "Lya Dubois",
+        "position": "Left fielder",
+        "AVG": 0.253,
+        "RBI": 47,
+        "valeur": 5
+    },
+    {
+        "id": 240,
+        "nom": "Rayan Gauthier",
+        "position": "Troisième base",
+        "AVG": 0.253,
+        "RBI": 56,
+        "valeur": 13
+    },
+    {
+        "id": 241,
+        "nom": "Nino Laurent",
+        "position": "Center fielder",
+        "AVG": 0.234,
+        "RBI": 26,
+        "valeur": 10
+    },
+    {
+        "id": 242,
+        "nom": "Léa Fontaine",
+        "position": "Attrapeur",
+        "AVG": 0.314,
+        "RBI": 56,
+        "valeur": 8
+    },
+    {
+        "id": 243,
+        "nom": "Emma Chevalier",
+        "position": "Batteur désigné",
+        "AVG": 0.292,
+        "RBI": 55,
+        "valeur": 5
+    },
+    {
+        "id": 244,
+        "nom": "Nina Clement",
+        "position": "Troisième base",
+        "AVG": 0.204,
+        "RBI": 37,
+        "valeur": 9
+    },
+    {
+        "id": 245,
+        "nom": "Valentin Lambert",
+        "position": "Lanceur",
+        "AVG": 0.227,
+        "RBI": 29,
+        "valeur": 14
+    },
+    {
+        "id": 246,
+        "nom": "Nour Vincent",
+        "position": "Attrapeur",
+        "AVG": 0.221,
+        "RBI": 60,
+        "valeur": 5
+    },
+    {
+        "id": 247,
+        "nom": "Sacha Mathieu",
+        "position": "Right fielder",
+        "AVG": 0.232,
+        "RBI": 46,
+        "valeur": 12
+    },
+    {
+        "id": 248,
+        "nom": "Valentin Simon",
+        "position": "Shortstop",
+        "AVG": 0.247,
+        "RBI": 40,
+        "valeur": 14
+    },
+    {
+        "id": 249,
+        "nom": "Jeanne Richard",
+        "position": "Lanceur",
+        "AVG": 0.223,
+        "RBI": 59,
+        "valeur": 5
+    },
+    {
+        "id": 250,
+        "nom": "Inès Richard",
+        "position": "Troisième base",
+        "AVG": 0.266,
+        "RBI": 47,
+        "valeur": 12
+    },
+    {
+        "id": 251,
+        "nom": "Nina Faure",
+        "position": "Left fielder",
+        "AVG": 0.241,
+        "RBI": 52,
+        "valeur": 6
+    },
+    {
+        "id": 252,
+        "nom": "Ibrahim Lefevre",
+        "position": "Attrapeur",
+        "AVG": 0.242,
+        "RBI": 57,
+        "valeur": 12
+    },
+    {
+        "id": 253,
+        "nom": "Iris Clement",
+        "position": "Troisième base",
+        "AVG": 0.207,
+        "RBI": 45,
+        "valeur": 14
+    },
+    {
+        "id": 254,
+        "nom": "Arthur Martin",
+        "position": "Deuxième base",
+        "AVG": 0.245,
+        "RBI": 33,
+        "valeur": 7
+    },
+    {
+        "id": 255,
+        "nom": "Éléna Bertrand",
+        "position": "Troisième base",
+        "AVG": 0.249,
+        "RBI": 20,
+        "valeur": 12
+    },
+    {
+        "id": 256,
+        "nom": "Margaux Lefevre",
+        "position": "Première base",
+        "AVG": 0.219,
+        "RBI": 54,
+        "valeur": 8
+    },
+    {
+        "id": 257,
+        "nom": "Chloé Chevalier",
+        "position": "Shortstop",
+        "AVG": 0.211,
+        "RBI": 22,
+        "valeur": 11
+    },
+    {
+        "id": 258,
+        "nom": "Raphaël Andre",
+        "position": "Attrapeur",
+        "AVG": 0.329,
+        "RBI": 56,
+        "valeur": 11
+    },
+    {
+        "id": 259,
+        "nom": "Luna Vincent",
+        "position": "Left fielder",
+        "AVG": 0.243,
+        "RBI": 45,
+        "valeur": 5
+    },
+    {
+        "id": 260,
+        "nom": "Robin Simon",
+        "position": "Batteur désigné",
+        "AVG": 0.269,
+        "RBI": 43,
+        "valeur": 6
+    },
+    {
+        "id": 261,
+        "nom": "Rose Durand",
+        "position": "Deuxième base",
+        "AVG": 0.265,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 262,
+        "nom": "Liam Vincent",
+        "position": "Troisième base",
+        "AVG": 0.312,
+        "RBI": 34,
+        "valeur": 10
+    },
+    {
+        "id": 263,
+        "nom": "Mya Simon",
+        "position": "Attrapeur",
+        "AVG": 0.277,
+        "RBI": 27,
+        "valeur": 13
+    },
+    {
+        "id": 264,
+        "nom": "Alma Lefebvre",
+        "position": "Shortstop",
+        "AVG": 0.253,
+        "RBI": 29,
+        "valeur": 8
+    },
+    {
+        "id": 265,
+        "nom": "Gabin Laurent",
+        "position": "Troisième base",
+        "AVG": 0.23,
+        "RBI": 58,
+        "valeur": 7
+    },
+    {
+        "id": 266,
+        "nom": "Éléna Gautier",
+        "position": "Attrapeur",
+        "AVG": 0.227,
+        "RBI": 60,
+        "valeur": 12
+    },
+    {
+        "id": 267,
+        "nom": "Lina Gautier",
+        "position": "Batteur désigné",
+        "AVG": 0.314,
+        "RBI": 48,
+        "valeur": 15
+    },
+    {
+        "id": 268,
+        "nom": "Victoire Robin",
+        "position": "Batteur désigné",
+        "AVG": 0.248,
+        "RBI": 60,
+        "valeur": 10
+    },
+    {
+        "id": 269,
+        "nom": "Léon Faure",
+        "position": "Attrapeur",
+        "AVG": 0.27,
+        "RBI": 60,
+        "valeur": 9
+    },
+    {
+        "id": 270,
+        "nom": "Victor Legrand",
+        "position": "Lanceur",
+        "AVG": 0.253,
+        "RBI": 24,
+        "valeur": 9
+    },
+    {
+        "id": 271,
+        "nom": "Lina Faure",
+        "position": "Lanceur",
+        "AVG": 0.209,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 272,
+        "nom": "Romane Richard",
+        "position": "Batteur désigné",
+        "AVG": 0.289,
+        "RBI": 44,
+        "valeur": 12
+    },
+    {
+        "id": 273,
+        "nom": "Giulia Chevalier",
+        "position": "Lanceur",
+        "AVG": 0.267,
+        "RBI": 56,
+        "valeur": 15
+    },
+    {
+        "id": 274,
+        "nom": "Nathan Bonnet",
+        "position": "Batteur désigné",
+        "AVG": 0.271,
+        "RBI": 29,
+        "valeur": 5
+    },
+    {
+        "id": 275,
+        "nom": "Romy Durand",
+        "position": "Shortstop",
+        "AVG": 0.347,
+        "RBI": 25,
+        "valeur": 13
+    },
+    {
+        "id": 276,
+        "nom": "Romane Michel",
+        "position": "Lanceur",
+        "AVG": 0.237,
+        "RBI": 48,
+        "valeur": 12
+    },
+    {
+        "id": 277,
+        "nom": "Iris Boyer",
+        "position": "Batteur désigné",
+        "AVG": 0.224,
+        "RBI": 43,
+        "valeur": 9
+    },
+    {
+        "id": 278,
+        "nom": "Imran Muller",
+        "position": "Shortstop",
+        "AVG": 0.302,
+        "RBI": 23,
+        "valeur": 15
+    },
+    {
+        "id": 279,
+        "nom": "Romane Dupont",
+        "position": "Attrapeur",
+        "AVG": 0.249,
+        "RBI": 55,
+        "valeur": 15
+    },
+    {
+        "id": 280,
+        "nom": "Imran Fournier",
+        "position": "Troisième base",
+        "AVG": 0.309,
+        "RBI": 58,
+        "valeur": 7
+    },
+    {
+        "id": 281,
+        "nom": "Tiago Richard",
+        "position": "Batteur désigné",
+        "AVG": 0.3,
+        "RBI": 42,
+        "valeur": 9
+    },
+    {
+        "id": 282,
+        "nom": "Victoria Nicolas",
+        "position": "Left fielder",
+        "AVG": 0.219,
+        "RBI": 25,
+        "valeur": 9
+    },
+    {
+        "id": 283,
+        "nom": "Léa Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.322,
+        "RBI": 53,
+        "valeur": 6
+    },
+    {
+        "id": 284,
+        "nom": "Romane Clement",
+        "position": "Left fielder",
+        "AVG": 0.276,
+        "RBI": 21,
+        "valeur": 10
+    },
+    {
+        "id": 285,
+        "nom": "Eliott Michel",
+        "position": "Deuxième base",
+        "AVG": 0.251,
+        "RBI": 51,
+        "valeur": 8
+    },
+    {
+        "id": 286,
+        "nom": "Marius Moreau",
+        "position": "Première base",
+        "AVG": 0.212,
+        "RBI": 26,
+        "valeur": 13
+    },
+    {
+        "id": 287,
+        "nom": "Emy Garnier",
+        "position": "Right fielder",
+        "AVG": 0.206,
+        "RBI": 41,
+        "valeur": 14
+    },
+    {
+        "id": 288,
+        "nom": "Naël Gauthier",
+        "position": "Left fielder",
+        "AVG": 0.223,
+        "RBI": 31,
+        "valeur": 14
+    },
+    {
+        "id": 289,
+        "nom": "Noé Roussel",
+        "position": "Center fielder",
+        "AVG": 0.207,
+        "RBI": 43,
+        "valeur": 15
+    },
+    {
+        "id": 290,
+        "nom": "Mila David",
+        "position": "Center fielder",
+        "AVG": 0.292,
+        "RBI": 48,
+        "valeur": 8
+    },
+    {
+        "id": 291,
+        "nom": "Inaya David",
+        "position": "Troisième base",
+        "AVG": 0.345,
+        "RBI": 50,
+        "valeur": 8
+    },
+    {
+        "id": 292,
+        "nom": "Amir Morin",
+        "position": "Batteur désigné",
+        "AVG": 0.348,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 293,
+        "nom": "Mya Rousseau",
+        "position": "Right fielder",
+        "AVG": 0.279,
+        "RBI": 30,
+        "valeur": 8
+    },
+    {
+        "id": 294,
+        "nom": "Nina Moreau",
+        "position": "Troisième base",
+        "AVG": 0.208,
+        "RBI": 50,
+        "valeur": 10
+    },
+    {
+        "id": 295,
+        "nom": "Juliette Durand",
+        "position": "Right fielder",
+        "AVG": 0.328,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 296,
+        "nom": "Éléna Simon",
+        "position": "Troisième base",
+        "AVG": 0.267,
+        "RBI": 52,
+        "valeur": 7
+    },
+    {
+        "id": 297,
+        "nom": "Rose Richard",
+        "position": "Deuxième base",
+        "AVG": 0.323,
+        "RBI": 42,
+        "valeur": 5
+    },
+    {
+        "id": 298,
+        "nom": "Alba Petit",
+        "position": "Left fielder",
+        "AVG": 0.275,
+        "RBI": 35,
+        "valeur": 11
+    },
+    {
+        "id": 299,
+        "nom": "Liam Fontaine",
+        "position": "Deuxième base",
+        "AVG": 0.204,
+        "RBI": 26,
+        "valeur": 15
+    },
+    {
+        "id": 300,
+        "nom": "Tiago Laurent",
+        "position": "Première base",
+        "AVG": 0.206,
+        "RBI": 50,
+        "valeur": 7
+    },
+    {
+        "id": 301,
+        "nom": "Éléna Henry",
+        "position": "Center fielder",
+        "AVG": 0.267,
+        "RBI": 20,
+        "valeur": 6
+    },
+    {
+        "id": 302,
+        "nom": "Raphaël Bertrand",
+        "position": "Deuxième base",
+        "AVG": 0.325,
+        "RBI": 55,
+        "valeur": 14
+    },
+    {
+        "id": 303,
+        "nom": "Iris Lefevre",
+        "position": "Attrapeur",
+        "AVG": 0.316,
+        "RBI": 35,
+        "valeur": 9
+    },
+    {
+        "id": 304,
+        "nom": "Hugo Petit",
+        "position": "Deuxième base",
+        "AVG": 0.263,
+        "RBI": 59,
+        "valeur": 12
+    },
+    {
+        "id": 305,
+        "nom": "Adam Dubois",
+        "position": "Center fielder",
+        "AVG": 0.29,
+        "RBI": 21,
+        "valeur": 15
+    },
+    {
+        "id": 306,
+        "nom": "Alma Francois",
+        "position": "Deuxième base",
+        "AVG": 0.308,
+        "RBI": 38,
+        "valeur": 11
+    },
+    {
+        "id": 307,
+        "nom": "Gabriel Garcia",
+        "position": "Shortstop",
+        "AVG": 0.236,
+        "RBI": 46,
+        "valeur": 7
+    },
+    {
+        "id": 308,
+        "nom": "Lya Clement",
+        "position": "Attrapeur",
+        "AVG": 0.279,
+        "RBI": 43,
+        "valeur": 6
+    },
+    {
+        "id": 309,
+        "nom": "Iris Garnier",
+        "position": "Right fielder",
+        "AVG": 0.318,
+        "RBI": 52,
+        "valeur": 13
+    },
+    {
+        "id": 310,
+        "nom": "Raphaël Rousseau",
+        "position": "Center fielder",
+        "AVG": 0.207,
+        "RBI": 44,
+        "valeur": 10
+    },
+    {
+        "id": 311,
+        "nom": "Gaspard Mathieu",
+        "position": "Lanceur",
+        "AVG": 0.254,
+        "RBI": 24,
+        "valeur": 10
+    },
+    {
+        "id": 312,
+        "nom": "Malo Roussel",
+        "position": "Attrapeur",
+        "AVG": 0.316,
+        "RBI": 41,
+        "valeur": 7
+    },
+    {
+        "id": 313,
+        "nom": "Noah Lambert",
+        "position": "Right fielder",
+        "AVG": 0.251,
+        "RBI": 31,
+        "valeur": 15
+    },
+    {
+        "id": 314,
+        "nom": "Lina Nicolas",
+        "position": "Center fielder",
+        "AVG": 0.295,
+        "RBI": 28,
+        "valeur": 6
+    },
+    {
+        "id": 315,
+        "nom": "Charlotte Masson",
+        "position": "Center fielder",
+        "AVG": 0.206,
+        "RBI": 32,
+        "valeur": 5
+    },
+    {
+        "id": 316,
+        "nom": "Théo Thomas",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 52,
+        "valeur": 11
+    },
+    {
+        "id": 317,
+        "nom": "Charlie Mercier",
+        "position": "Troisième base",
+        "AVG": 0.205,
+        "RBI": 32,
+        "valeur": 9
+    },
+    {
+        "id": 318,
+        "nom": "Axel Masson",
+        "position": "Lanceur",
+        "AVG": 0.33,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 319,
+        "nom": "Hugo Fontaine",
+        "position": "Left fielder",
+        "AVG": 0.333,
+        "RBI": 48,
+        "valeur": 11
+    },
+    {
+        "id": 320,
+        "nom": "Valentin Michel",
+        "position": "Center fielder",
+        "AVG": 0.304,
+        "RBI": 43,
+        "valeur": 13
+    },
+    {
+        "id": 321,
+        "nom": "Lyam Richard",
+        "position": "Left fielder",
+        "AVG": 0.212,
+        "RBI": 58,
+        "valeur": 7
+    },
+    {
+        "id": 322,
+        "nom": "Charlie Fournier",
+        "position": "Shortstop",
+        "AVG": 0.215,
+        "RBI": 40,
+        "valeur": 15
+    },
+    {
+        "id": 323,
+        "nom": "Elio Girard",
+        "position": "Center fielder",
+        "AVG": 0.29,
+        "RBI": 47,
+        "valeur": 7
+    },
+    {
+        "id": 324,
+        "nom": "Lyana Faure",
+        "position": "Shortstop",
+        "AVG": 0.267,
+        "RBI": 42,
+        "valeur": 14
+    },
+    {
+        "id": 325,
+        "nom": "Rose Morel",
+        "position": "Lanceur",
+        "AVG": 0.211,
+        "RBI": 60,
+        "valeur": 11
+    },
+    {
+        "id": 326,
+        "nom": "Augustin Guerin",
+        "position": "Première base",
+        "AVG": 0.343,
+        "RBI": 29,
+        "valeur": 14
+    },
+    {
+        "id": 327,
+        "nom": "Inès Faure",
+        "position": "Lanceur",
+        "AVG": 0.219,
+        "RBI": 35,
+        "valeur": 15
+    },
+    {
+        "id": 328,
+        "nom": "Augustin Fontaine",
+        "position": "Left fielder",
+        "AVG": 0.342,
+        "RBI": 22,
+        "valeur": 14
+    },
+    {
+        "id": 329,
+        "nom": "Léon Morin",
+        "position": "Center fielder",
+        "AVG": 0.342,
+        "RBI": 43,
+        "valeur": 12
+    },
+    {
+        "id": 330,
+        "nom": "Éléna Robert",
+        "position": "Batteur désigné",
+        "AVG": 0.221,
+        "RBI": 43,
+        "valeur": 11
+    },
+    {
+        "id": 331,
+        "nom": "Milo Robin",
+        "position": "Troisième base",
+        "AVG": 0.237,
+        "RBI": 27,
+        "valeur": 5
+    },
+    {
+        "id": 332,
+        "nom": "Louna Michel",
+        "position": "Center fielder",
+        "AVG": 0.278,
+        "RBI": 55,
+        "valeur": 6
+    },
+    {
+        "id": 333,
+        "nom": "Martin Masson",
+        "position": "Troisième base",
+        "AVG": 0.306,
+        "RBI": 33,
+        "valeur": 14
+    },
+    {
+        "id": 334,
+        "nom": "Rayan Nicolas",
+        "position": "Center fielder",
+        "AVG": 0.23,
+        "RBI": 28,
+        "valeur": 6
+    },
+    {
+        "id": 335,
+        "nom": "Romy Michel",
+        "position": "Center fielder",
+        "AVG": 0.35,
+        "RBI": 40,
+        "valeur": 15
+    },
+    {
+        "id": 336,
+        "nom": "Ibrahim Henry",
+        "position": "Attrapeur",
+        "AVG": 0.282,
+        "RBI": 38,
+        "valeur": 9
+    },
+    {
+        "id": 337,
+        "nom": "Paul Henry",
+        "position": "Première base",
+        "AVG": 0.319,
+        "RBI": 52,
+        "valeur": 8
+    },
+    {
+        "id": 338,
+        "nom": "Hugo Lefebvre",
+        "position": "Première base",
+        "AVG": 0.236,
+        "RBI": 51,
+        "valeur": 5
+    },
+    {
+        "id": 339,
+        "nom": "Augustin Chevalier",
+        "position": "Batteur désigné",
+        "AVG": 0.255,
+        "RBI": 55,
+        "valeur": 7
+    },
+    {
+        "id": 340,
+        "nom": "Éva Richard",
+        "position": "Attrapeur",
+        "AVG": 0.246,
+        "RBI": 50,
+        "valeur": 13
+    },
+    {
+        "id": 341,
+        "nom": "Ambre Masson",
+        "position": "Left fielder",
+        "AVG": 0.324,
+        "RBI": 24,
+        "valeur": 7
+    },
+    {
+        "id": 342,
+        "nom": "Milo Robin",
+        "position": "Attrapeur",
+        "AVG": 0.267,
+        "RBI": 53,
+        "valeur": 10
+    },
+    {
+        "id": 343,
+        "nom": "Naël Masson",
+        "position": "Right fielder",
+        "AVG": 0.296,
+        "RBI": 31,
+        "valeur": 7
+    },
+    {
+        "id": 344,
+        "nom": "Rose Guerin",
+        "position": "Lanceur",
+        "AVG": 0.325,
+        "RBI": 53,
+        "valeur": 7
+    },
+    {
+        "id": 345,
+        "nom": "Timéo Simon",
+        "position": "Première base",
+        "AVG": 0.248,
+        "RBI": 34,
+        "valeur": 10
+    },
+    {
+        "id": 346,
+        "nom": "Agathe Fournier",
+        "position": "Attrapeur",
+        "AVG": 0.238,
+        "RBI": 60,
+        "valeur": 13
+    },
+    {
+        "id": 347,
+        "nom": "Victor Moreau",
+        "position": "Troisième base",
+        "AVG": 0.292,
+        "RBI": 25,
+        "valeur": 13
+    },
+    {
+        "id": 348,
+        "nom": "Romane Simon",
+        "position": "Batteur désigné",
+        "AVG": 0.341,
+        "RBI": 29,
+        "valeur": 7
+    },
+    {
+        "id": 349,
+        "nom": "Nour Garcia",
+        "position": "Batteur désigné",
+        "AVG": 0.251,
+        "RBI": 56,
+        "valeur": 5
+    },
+    {
+        "id": 350,
+        "nom": "Maël Richard",
+        "position": "Lanceur",
+        "AVG": 0.342,
+        "RBI": 56,
+        "valeur": 9
+    },
+    {
+        "id": 351,
+        "nom": "Victoria Leroy",
+        "position": "Batteur désigné",
+        "AVG": 0.262,
+        "RBI": 60,
+        "valeur": 5
+    },
+    {
+        "id": 352,
+        "nom": "Julia Perrin",
+        "position": "Right fielder",
+        "AVG": 0.243,
+        "RBI": 39,
+        "valeur": 12
+    },
+    {
+        "id": 353,
+        "nom": "Mathis Morin",
+        "position": "Left fielder",
+        "AVG": 0.245,
+        "RBI": 24,
+        "valeur": 5
+    },
+    {
+        "id": 354,
+        "nom": "Paul Faure",
+        "position": "Left fielder",
+        "AVG": 0.273,
+        "RBI": 33,
+        "valeur": 10
+    },
+    {
+        "id": 355,
+        "nom": "Nina Laurent",
+        "position": "Shortstop",
+        "AVG": 0.329,
+        "RBI": 40,
+        "valeur": 10
+    },
+    {
+        "id": 356,
+        "nom": "Louise Moreau",
+        "position": "Shortstop",
+        "AVG": 0.277,
+        "RBI": 26,
+        "valeur": 10
+    },
+    {
+        "id": 357,
+        "nom": "Malo Andre",
+        "position": "Attrapeur",
+        "AVG": 0.24,
+        "RBI": 35,
+        "valeur": 7
+    },
+    {
+        "id": 358,
+        "nom": "Isaac Petit",
+        "position": "Troisième base",
+        "AVG": 0.342,
+        "RBI": 59,
+        "valeur": 11
+    },
+    {
+        "id": 359,
+        "nom": "Mathis Simon",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 40,
+        "valeur": 8
+    },
+    {
+        "id": 360,
+        "nom": "Éléna Simon",
+        "position": "Center fielder",
+        "AVG": 0.349,
+        "RBI": 49,
+        "valeur": 12
+    },
+    {
+        "id": 361,
+        "nom": "Eliott Blanc",
+        "position": "Lanceur",
+        "AVG": 0.214,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 362,
+        "nom": "Anna David",
+        "position": "Deuxième base",
+        "AVG": 0.288,
+        "RBI": 23,
+        "valeur": 5
+    },
+    {
+        "id": 363,
+        "nom": "Rayan Blanc",
+        "position": "Batteur désigné",
+        "AVG": 0.332,
+        "RBI": 50,
+        "valeur": 9
+    },
+    {
+        "id": 364,
+        "nom": "Inaya Martin",
+        "position": "Attrapeur",
+        "AVG": 0.265,
+        "RBI": 36,
+        "valeur": 10
+    },
+    {
+        "id": 365,
+        "nom": "Éléna Vincent",
+        "position": "Shortstop",
+        "AVG": 0.207,
+        "RBI": 23,
+        "valeur": 14
+    },
+    {
+        "id": 366,
+        "nom": "Léa Lefebvre",
+        "position": "Shortstop",
+        "AVG": 0.283,
+        "RBI": 24,
+        "valeur": 11
+    },
+    {
+        "id": 367,
+        "nom": "Chloé Faure",
+        "position": "Right fielder",
+        "AVG": 0.242,
+        "RBI": 59,
+        "valeur": 15
+    },
+    {
+        "id": 368,
+        "nom": "Éva Dubois",
+        "position": "Première base",
+        "AVG": 0.346,
+        "RBI": 45,
+        "valeur": 10
+    },
+    {
+        "id": 369,
+        "nom": "Valentin Chevalier",
+        "position": "Shortstop",
+        "AVG": 0.313,
+        "RBI": 32,
+        "valeur": 14
+    },
+    {
+        "id": 370,
+        "nom": "Alma Vincent",
+        "position": "Right fielder",
+        "AVG": 0.206,
+        "RBI": 22,
+        "valeur": 7
+    },
+    {
+        "id": 371,
+        "nom": "Charlotte Dupont",
+        "position": "Center fielder",
+        "AVG": 0.278,
+        "RBI": 29,
+        "valeur": 14
+    },
+    {
+        "id": 372,
+        "nom": "Alma Moreau",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 40,
+        "valeur": 7
+    },
+    {
+        "id": 373,
+        "nom": "Jade Garcia",
+        "position": "Troisième base",
+        "AVG": 0.289,
+        "RBI": 52,
+        "valeur": 13
+    },
+    {
+        "id": 374,
+        "nom": "Inaya Blanc",
+        "position": "Batteur désigné",
+        "AVG": 0.245,
+        "RBI": 21,
+        "valeur": 10
+    },
+    {
+        "id": 375,
+        "nom": "Tiago Morin",
+        "position": "Attrapeur",
+        "AVG": 0.347,
+        "RBI": 57,
+        "valeur": 9
+    },
+    {
+        "id": 376,
+        "nom": "Mila Nicolas",
+        "position": "Lanceur",
+        "AVG": 0.29,
+        "RBI": 36,
+        "valeur": 15
+    },
+    {
+        "id": 377,
+        "nom": "Mya Legrand",
+        "position": "Batteur désigné",
+        "AVG": 0.234,
+        "RBI": 23,
+        "valeur": 14
+    },
+    {
+        "id": 378,
+        "nom": "Mia Simon",
+        "position": "Right fielder",
+        "AVG": 0.294,
+        "RBI": 59,
+        "valeur": 11
+    },
+    {
+        "id": 379,
+        "nom": "Mohamed Morin",
+        "position": "Deuxième base",
+        "AVG": 0.205,
+        "RBI": 27,
+        "valeur": 8
+    },
+    {
+        "id": 380,
+        "nom": "Raphaël Faure",
+        "position": "Shortstop",
+        "AVG": 0.263,
+        "RBI": 46,
+        "valeur": 8
+    },
+    {
+        "id": 381,
+        "nom": "Ambre Guerin",
+        "position": "Batteur désigné",
+        "AVG": 0.338,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 382,
+        "nom": "Agathe Leroy",
+        "position": "Right fielder",
+        "AVG": 0.249,
+        "RBI": 50,
+        "valeur": 13
+    },
+    {
+        "id": 383,
+        "nom": "Enzo Bonnet",
+        "position": "Première base",
+        "AVG": 0.269,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 384,
+        "nom": "Charlie Lambert",
+        "position": "Troisième base",
+        "AVG": 0.292,
+        "RBI": 32,
+        "valeur": 8
+    },
+    {
+        "id": 385,
+        "nom": "Victor Chevalier",
+        "position": "Troisième base",
+        "AVG": 0.234,
+        "RBI": 39,
+        "valeur": 9
+    },
+    {
+        "id": 386,
+        "nom": "Alix Leroy",
+        "position": "Center fielder",
+        "AVG": 0.248,
+        "RBI": 42,
+        "valeur": 13
+    },
+    {
+        "id": 387,
+        "nom": "Mila Morel",
+        "position": "Troisième base",
+        "AVG": 0.218,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 388,
+        "nom": "Jade Lambert",
+        "position": "Première base",
+        "AVG": 0.244,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 389,
+        "nom": "Ibrahim Faure",
+        "position": "Troisième base",
+        "AVG": 0.312,
+        "RBI": 33,
+        "valeur": 8
+    },
+    {
+        "id": 390,
+        "nom": "Inaya Morel",
+        "position": "Right fielder",
+        "AVG": 0.304,
+        "RBI": 28,
+        "valeur": 6
+    },
+    {
+        "id": 391,
+        "nom": "Éva Mathieu",
+        "position": "Batteur désigné",
+        "AVG": 0.236,
+        "RBI": 23,
+        "valeur": 15
+    },
+    {
+        "id": 392,
+        "nom": "Iris Roux",
+        "position": "Deuxième base",
+        "AVG": 0.208,
+        "RBI": 46,
+        "valeur": 10
+    },
+    {
+        "id": 393,
+        "nom": "Charlotte Mercier",
+        "position": "Attrapeur",
+        "AVG": 0.302,
+        "RBI": 28,
+        "valeur": 5
+    },
+    {
+        "id": 394,
+        "nom": "Juliette Simon",
+        "position": "Left fielder",
+        "AVG": 0.298,
+        "RBI": 50,
+        "valeur": 12
+    },
+    {
+        "id": 395,
+        "nom": "Victoria Lefebvre",
+        "position": "Troisième base",
+        "AVG": 0.248,
+        "RBI": 23,
+        "valeur": 6
+    },
+    {
+        "id": 396,
+        "nom": "Victoria Francois",
+        "position": "Deuxième base",
+        "AVG": 0.28,
+        "RBI": 22,
+        "valeur": 7
+    },
+    {
+        "id": 397,
+        "nom": "Alba Michel",
+        "position": "Lanceur",
+        "AVG": 0.35,
+        "RBI": 45,
+        "valeur": 12
+    },
+    {
+        "id": 398,
+        "nom": "Ethan Mathieu",
+        "position": "Troisième base",
+        "AVG": 0.332,
+        "RBI": 20,
+        "valeur": 9
+    },
+    {
+        "id": 399,
+        "nom": "Victoire Gauthier",
+        "position": "Attrapeur",
+        "AVG": 0.339,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 400,
+        "nom": "Anna Robin",
+        "position": "Right fielder",
+        "AVG": 0.279,
+        "RBI": 28,
+        "valeur": 13
+    },
+    {
+        "id": 401,
+        "nom": "Lina Morel",
+        "position": "Deuxième base",
+        "AVG": 0.321,
+        "RBI": 41,
+        "valeur": 7
+    },
+    {
+        "id": 402,
+        "nom": "Sofia Andre",
+        "position": "Troisième base",
+        "AVG": 0.308,
+        "RBI": 20,
+        "valeur": 10
+    },
+    {
+        "id": 403,
+        "nom": "Elio Francois",
+        "position": "Deuxième base",
+        "AVG": 0.226,
+        "RBI": 60,
+        "valeur": 11
+    },
+    {
+        "id": 404,
+        "nom": "Emma Guerin",
+        "position": "Shortstop",
+        "AVG": 0.213,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 405,
+        "nom": "Aaron Mercier",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 20,
+        "valeur": 9
+    },
+    {
+        "id": 406,
+        "nom": "Imran David",
+        "position": "Center fielder",
+        "AVG": 0.313,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 407,
+        "nom": "Giulia Roussel",
+        "position": "Batteur désigné",
+        "AVG": 0.202,
+        "RBI": 43,
+        "valeur": 8
+    },
+    {
+        "id": 408,
+        "nom": "Arthur Clement",
+        "position": "Attrapeur",
+        "AVG": 0.27,
+        "RBI": 30,
+        "valeur": 11
+    },
+    {
+        "id": 409,
+        "nom": "Lucie Guerin",
+        "position": "Troisième base",
+        "AVG": 0.304,
+        "RBI": 60,
+        "valeur": 9
+    },
+    {
+        "id": 410,
+        "nom": "Amir Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.233,
+        "RBI": 28,
+        "valeur": 12
+    },
+    {
+        "id": 411,
+        "nom": "Léon Andre",
+        "position": "Batteur désigné",
+        "AVG": 0.256,
+        "RBI": 55,
+        "valeur": 12
+    },
+    {
+        "id": 412,
+        "nom": "Ava Garnier",
+        "position": "Deuxième base",
+        "AVG": 0.314,
+        "RBI": 58,
+        "valeur": 6
+    },
+    {
+        "id": 413,
+        "nom": "Iris Faure",
+        "position": "Right fielder",
+        "AVG": 0.306,
+        "RBI": 24,
+        "valeur": 14
+    },
+    {
+        "id": 414,
+        "nom": "Éden Petit",
+        "position": "Right fielder",
+        "AVG": 0.335,
+        "RBI": 32,
+        "valeur": 14
+    },
+    {
+        "id": 415,
+        "nom": "Inaya Laurent",
+        "position": "Première base",
+        "AVG": 0.249,
+        "RBI": 53,
+        "valeur": 12
+    },
+    {
+        "id": 416,
+        "nom": "Éden Morin",
+        "position": "Deuxième base",
+        "AVG": 0.308,
+        "RBI": 51,
+        "valeur": 6
+    },
+    {
+        "id": 417,
+        "nom": "Alma Faure",
+        "position": "Lanceur",
+        "AVG": 0.268,
+        "RBI": 52,
+        "valeur": 11
+    },
+    {
+        "id": 418,
+        "nom": "Anna Francois",
+        "position": "Lanceur",
+        "AVG": 0.284,
+        "RBI": 39,
+        "valeur": 5
+    },
+    {
+        "id": 419,
+        "nom": "Jade Bertrand",
+        "position": "Lanceur",
+        "AVG": 0.312,
+        "RBI": 57,
+        "valeur": 6
+    },
+    {
+        "id": 420,
+        "nom": "Noah Lefevre",
+        "position": "Shortstop",
+        "AVG": 0.305,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 421,
+        "nom": "Adam Mercier",
+        "position": "Lanceur",
+        "AVG": 0.243,
+        "RBI": 31,
+        "valeur": 7
+    },
+    {
+        "id": 422,
+        "nom": "Emy Robin",
+        "position": "Left fielder",
+        "AVG": 0.256,
+        "RBI": 44,
+        "valeur": 12
+    },
+    {
+        "id": 423,
+        "nom": "Enzo Rousseau",
+        "position": "Attrapeur",
+        "AVG": 0.302,
+        "RBI": 54,
+        "valeur": 7
+    },
+    {
+        "id": 424,
+        "nom": "Victoria Lambert",
+        "position": "Attrapeur",
+        "AVG": 0.227,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 425,
+        "nom": "Iris Moreau",
+        "position": "Deuxième base",
+        "AVG": 0.325,
+        "RBI": 21,
+        "valeur": 9
+    },
+    {
+        "id": 426,
+        "nom": "Lina Morin",
+        "position": "Right fielder",
+        "AVG": 0.264,
+        "RBI": 44,
+        "valeur": 8
+    },
+    {
+        "id": 427,
+        "nom": "Mathis Andre",
+        "position": "Shortstop",
+        "AVG": 0.223,
+        "RBI": 32,
+        "valeur": 6
+    },
+    {
+        "id": 428,
+        "nom": "Louis Clement",
+        "position": "Left fielder",
+        "AVG": 0.292,
+        "RBI": 21,
+        "valeur": 8
+    },
+    {
+        "id": 429,
+        "nom": "Tom Robert",
+        "position": "Attrapeur",
+        "AVG": 0.289,
+        "RBI": 48,
+        "valeur": 14
+    },
+    {
+        "id": 430,
+        "nom": "Inès Henry",
+        "position": "Lanceur",
+        "AVG": 0.237,
+        "RBI": 22,
+        "valeur": 11
+    },
+    {
+        "id": 431,
+        "nom": "Alice Roux",
+        "position": "Right fielder",
+        "AVG": 0.233,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 432,
+        "nom": "Chloé Fournier",
+        "position": "Deuxième base",
+        "AVG": 0.322,
+        "RBI": 56,
+        "valeur": 10
+    },
+    {
+        "id": 433,
+        "nom": "Luna Gauthier",
+        "position": "Shortstop",
+        "AVG": 0.236,
+        "RBI": 29,
+        "valeur": 15
+    },
+    {
+        "id": 434,
+        "nom": "Agathe Roux",
+        "position": "Left fielder",
+        "AVG": 0.245,
+        "RBI": 23,
+        "valeur": 13
+    },
+    {
+        "id": 435,
+        "nom": "Adèle Mathieu",
+        "position": "Première base",
+        "AVG": 0.294,
+        "RBI": 47,
+        "valeur": 13
+    },
+    {
+        "id": 436,
+        "nom": "Julia Petit",
+        "position": "Shortstop",
+        "AVG": 0.341,
+        "RBI": 44,
+        "valeur": 13
+    },
+    {
+        "id": 437,
+        "nom": "Milo Nicolas",
+        "position": "Left fielder",
+        "AVG": 0.261,
+        "RBI": 39,
+        "valeur": 11
+    },
+    {
+        "id": 438,
+        "nom": "Ethan Gautier",
+        "position": "Right fielder",
+        "AVG": 0.271,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 439,
+        "nom": "Alix Laurent",
+        "position": "Center fielder",
+        "AVG": 0.337,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 440,
+        "nom": "Alba Chevalier",
+        "position": "Right fielder",
+        "AVG": 0.22,
+        "RBI": 35,
+        "valeur": 9
+    },
+    {
+        "id": 441,
+        "nom": "Tom Dupont",
+        "position": "Attrapeur",
+        "AVG": 0.338,
+        "RBI": 43,
+        "valeur": 6
+    },
+    {
+        "id": 442,
+        "nom": "Inaya Roussel",
+        "position": "Deuxième base",
+        "AVG": 0.208,
+        "RBI": 44,
+        "valeur": 15
+    },
+    {
+        "id": 443,
+        "nom": "Nina Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.331,
+        "RBI": 32,
+        "valeur": 14
+    },
+    {
+        "id": 444,
+        "nom": "Mila Clement",
+        "position": "Right fielder",
+        "AVG": 0.233,
+        "RBI": 33,
+        "valeur": 10
+    },
+    {
+        "id": 445,
+        "nom": "Timéo Martin",
+        "position": "Deuxième base",
+        "AVG": 0.341,
+        "RBI": 27,
+        "valeur": 12
+    },
+    {
+        "id": 446,
+        "nom": "Mathis Nicolas",
+        "position": "Batteur désigné",
+        "AVG": 0.306,
+        "RBI": 45,
+        "valeur": 8
+    },
+    {
+        "id": 447,
+        "nom": "Juliette Bonnet",
+        "position": "Troisième base",
+        "AVG": 0.257,
+        "RBI": 54,
+        "valeur": 15
+    },
+    {
+        "id": 448,
+        "nom": "Axel Girard",
+        "position": "Troisième base",
+        "AVG": 0.254,
+        "RBI": 51,
+        "valeur": 12
+    },
+    {
+        "id": 449,
+        "nom": "Isaac Roussel",
+        "position": "Center fielder",
+        "AVG": 0.314,
+        "RBI": 40,
+        "valeur": 8
+    },
+    {
+        "id": 450,
+        "nom": "Amir Bonnet",
+        "position": "Left fielder",
+        "AVG": 0.207,
+        "RBI": 34,
+        "valeur": 7
+    },
+    {
+        "id": 451,
+        "nom": "Raphaël Bertrand",
+        "position": "Right fielder",
+        "AVG": 0.34,
+        "RBI": 57,
+        "valeur": 11
+    },
+    {
+        "id": 452,
+        "nom": "Elio Laurent",
+        "position": "Deuxième base",
+        "AVG": 0.249,
+        "RBI": 44,
+        "valeur": 14
+    },
+    {
+        "id": 453,
+        "nom": "Mathis Blanc",
+        "position": "Right fielder",
+        "AVG": 0.298,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 454,
+        "nom": "Éléna Blanc",
+        "position": "Center fielder",
+        "AVG": 0.269,
+        "RBI": 42,
+        "valeur": 7
+    },
+    {
+        "id": 455,
+        "nom": "Aaron Roussel",
+        "position": "Right fielder",
+        "AVG": 0.273,
+        "RBI": 54,
+        "valeur": 15
+    },
+    {
+        "id": 456,
+        "nom": "Arthur Boyer",
+        "position": "Lanceur",
+        "AVG": 0.326,
+        "RBI": 24,
+        "valeur": 15
+    },
+    {
+        "id": 457,
+        "nom": "Jules Gautier",
+        "position": "Lanceur",
+        "AVG": 0.262,
+        "RBI": 60,
+        "valeur": 8
+    },
+    {
+        "id": 458,
+        "nom": "Adam Henry",
+        "position": "Première base",
+        "AVG": 0.201,
+        "RBI": 52,
+        "valeur": 12
+    },
+    {
+        "id": 459,
+        "nom": "Amir Petit",
+        "position": "Batteur désigné",
+        "AVG": 0.296,
+        "RBI": 59,
+        "valeur": 12
+    },
+    {
+        "id": 460,
+        "nom": "Nour Blanc",
+        "position": "Lanceur",
+        "AVG": 0.201,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 461,
+        "nom": "Léo Bernard",
+        "position": "Right fielder",
+        "AVG": 0.308,
+        "RBI": 54,
+        "valeur": 9
+    },
+    {
+        "id": 462,
+        "nom": "Raphaël Guerin",
+        "position": "Left fielder",
+        "AVG": 0.321,
+        "RBI": 31,
+        "valeur": 6
+    },
+    {
+        "id": 463,
+        "nom": "Isaac Boyer",
+        "position": "Première base",
+        "AVG": 0.236,
+        "RBI": 59,
+        "valeur": 13
+    },
+    {
+        "id": 464,
+        "nom": "Gaspard Lambert",
+        "position": "Troisième base",
+        "AVG": 0.319,
+        "RBI": 25,
+        "valeur": 10
+    },
+    {
+        "id": 465,
+        "nom": "Louise Andre",
+        "position": "Batteur désigné",
+        "AVG": 0.236,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 466,
+        "nom": "Lucie Richard",
+        "position": "Lanceur",
+        "AVG": 0.214,
+        "RBI": 44,
+        "valeur": 11
+    },
+    {
+        "id": 467,
+        "nom": "Juliette Mercier",
+        "position": "Lanceur",
+        "AVG": 0.296,
+        "RBI": 30,
+        "valeur": 6
+    },
+    {
+        "id": 468,
+        "nom": "Julia Lefevre",
+        "position": "Shortstop",
+        "AVG": 0.285,
+        "RBI": 26,
+        "valeur": 13
+    },
+    {
+        "id": 469,
+        "nom": "Noah Roux",
+        "position": "Deuxième base",
+        "AVG": 0.335,
+        "RBI": 56,
+        "valeur": 12
+    },
+    {
+        "id": 470,
+        "nom": "Lyam Thomas",
+        "position": "Attrapeur",
+        "AVG": 0.303,
+        "RBI": 37,
+        "valeur": 13
+    },
+    {
+        "id": 471,
+        "nom": "Victoire Clement",
+        "position": "Lanceur",
+        "AVG": 0.227,
+        "RBI": 40,
+        "valeur": 5
+    },
+    {
+        "id": 472,
+        "nom": "Tom Legrand",
+        "position": "Première base",
+        "AVG": 0.313,
+        "RBI": 45,
+        "valeur": 6
+    },
+    {
+        "id": 473,
+        "nom": "Timéo Simon",
+        "position": "Batteur désigné",
+        "AVG": 0.236,
+        "RBI": 44,
+        "valeur": 15
+    },
+    {
+        "id": 474,
+        "nom": "Charlie Dupont",
+        "position": "Left fielder",
+        "AVG": 0.313,
+        "RBI": 28,
+        "valeur": 6
+    },
+    {
+        "id": 475,
+        "nom": "Chloé Mathieu",
+        "position": "Shortstop",
+        "AVG": 0.208,
+        "RBI": 47,
+        "valeur": 8
+    },
+    {
+        "id": 476,
+        "nom": "Lucas Dupont",
+        "position": "Batteur désigné",
+        "AVG": 0.315,
+        "RBI": 58,
+        "valeur": 11
+    },
+    {
+        "id": 477,
+        "nom": "Mya Bonnet",
+        "position": "Lanceur",
+        "AVG": 0.295,
+        "RBI": 48,
+        "valeur": 12
+    },
+    {
+        "id": 478,
+        "nom": "Ayden Lambert",
+        "position": "Right fielder",
+        "AVG": 0.341,
+        "RBI": 47,
+        "valeur": 7
+    },
+    {
+        "id": 479,
+        "nom": "Lucie Legrand",
+        "position": "Left fielder",
+        "AVG": 0.213,
+        "RBI": 59,
+        "valeur": 9
+    },
+    {
+        "id": 480,
+        "nom": "Mathis Henry",
+        "position": "Attrapeur",
+        "AVG": 0.212,
+        "RBI": 29,
+        "valeur": 11
+    },
+    {
+        "id": 481,
+        "nom": "Charlotte Perrin",
+        "position": "Première base",
+        "AVG": 0.311,
+        "RBI": 40,
+        "valeur": 10
+    },
+    {
+        "id": 482,
+        "nom": "Gabin Richard",
+        "position": "Lanceur",
+        "AVG": 0.341,
+        "RBI": 48,
+        "valeur": 10
+    },
+    {
+        "id": 483,
+        "nom": "Éléna Morel",
+        "position": "Attrapeur",
+        "AVG": 0.22,
+        "RBI": 31,
+        "valeur": 11
+    },
+    {
+        "id": 484,
+        "nom": "Romy Chevalier",
+        "position": "Right fielder",
+        "AVG": 0.277,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 485,
+        "nom": "Sacha Lambert",
+        "position": "Right fielder",
+        "AVG": 0.214,
+        "RBI": 58,
+        "valeur": 10
+    },
+    {
+        "id": 486,
+        "nom": "Imran Martin",
+        "position": "Troisième base",
+        "AVG": 0.262,
+        "RBI": 25,
+        "valeur": 13
+    },
+    {
+        "id": 487,
+        "nom": "Mathis Francois",
+        "position": "Right fielder",
+        "AVG": 0.225,
+        "RBI": 44,
+        "valeur": 7
+    },
+    {
+        "id": 488,
+        "nom": "Aaron Morel",
+        "position": "Troisième base",
+        "AVG": 0.24,
+        "RBI": 29,
+        "valeur": 6
+    },
+    {
+        "id": 489,
+        "nom": "Noé Lefevre",
+        "position": "Troisième base",
+        "AVG": 0.263,
+        "RBI": 50,
+        "valeur": 6
+    },
+    {
+        "id": 490,
+        "nom": "Augustin Bertrand",
+        "position": "Deuxième base",
+        "AVG": 0.308,
+        "RBI": 51,
+        "valeur": 14
+    },
+    {
+        "id": 491,
+        "nom": "Éva Lefebvre",
+        "position": "Center fielder",
+        "AVG": 0.216,
+        "RBI": 39,
+        "valeur": 5
+    },
+    {
+        "id": 492,
+        "nom": "Jade Dupont",
+        "position": "Batteur désigné",
+        "AVG": 0.257,
+        "RBI": 41,
+        "valeur": 12
+    },
+    {
+        "id": 493,
+        "nom": "Tiago Lefevre",
+        "position": "Batteur désigné",
+        "AVG": 0.22,
+        "RBI": 40,
+        "valeur": 14
+    },
+    {
+        "id": 494,
+        "nom": "Lyana Lefebvre",
+        "position": "Center fielder",
+        "AVG": 0.247,
+        "RBI": 45,
+        "valeur": 10
+    },
+    {
+        "id": 495,
+        "nom": "Elio Mathieu",
+        "position": "Center fielder",
+        "AVG": 0.345,
+        "RBI": 35,
+        "valeur": 10
+    },
+    {
+        "id": 496,
+        "nom": "Enzo Morel",
+        "position": "Left fielder",
+        "AVG": 0.255,
+        "RBI": 56,
+        "valeur": 8
+    },
+    {
+        "id": 497,
+        "nom": "Adèle Garnier",
+        "position": "Première base",
+        "AVG": 0.302,
+        "RBI": 55,
+        "valeur": 5
+    },
+    {
+        "id": 498,
+        "nom": "Sofia Andre",
+        "position": "Deuxième base",
+        "AVG": 0.266,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 499,
+        "nom": "Ambre Morin",
+        "position": "Center fielder",
+        "AVG": 0.221,
+        "RBI": 39,
+        "valeur": 8
+    },
+    {
+        "id": 500,
+        "nom": "Gaspard Clement",
+        "position": "Première base",
+        "AVG": 0.307,
+        "RBI": 44,
+        "valeur": 6
+    },
+    {
+        "id": 501,
+        "nom": "Romy Gauthier",
+        "position": "Center fielder",
+        "AVG": 0.287,
+        "RBI": 54,
+        "valeur": 13
+    },
+    {
+        "id": 502,
+        "nom": "Lyana Muller",
+        "position": "Right fielder",
+        "AVG": 0.206,
+        "RBI": 43,
+        "valeur": 13
+    },
+    {
+        "id": 503,
+        "nom": "Jeanne Perrin",
+        "position": "Attrapeur",
+        "AVG": 0.216,
+        "RBI": 35,
+        "valeur": 15
+    },
+    {
+        "id": 504,
+        "nom": "Lya Lambert",
+        "position": "Première base",
+        "AVG": 0.297,
+        "RBI": 22,
+        "valeur": 14
+    },
+    {
+        "id": 505,
+        "nom": "Romane Morin",
+        "position": "Left fielder",
+        "AVG": 0.345,
+        "RBI": 41,
+        "valeur": 11
+    },
+    {
+        "id": 506,
+        "nom": "Gabin Martin",
+        "position": "Attrapeur",
+        "AVG": 0.239,
+        "RBI": 52,
+        "valeur": 13
+    },
+    {
+        "id": 507,
+        "nom": "Léa Legrand",
+        "position": "Batteur désigné",
+        "AVG": 0.233,
+        "RBI": 43,
+        "valeur": 11
+    },
+    {
+        "id": 508,
+        "nom": "Lina Masson",
+        "position": "Batteur désigné",
+        "AVG": 0.304,
+        "RBI": 29,
+        "valeur": 10
+    },
+    {
+        "id": 509,
+        "nom": "Maël Mercier",
+        "position": "Attrapeur",
+        "AVG": 0.244,
+        "RBI": 25,
+        "valeur": 6
+    },
+    {
+        "id": 510,
+        "nom": "Sofia Laurent",
+        "position": "Shortstop",
+        "AVG": 0.247,
+        "RBI": 49,
+        "valeur": 8
+    },
+    {
+        "id": 511,
+        "nom": "Agathe Mercier",
+        "position": "Shortstop",
+        "AVG": 0.271,
+        "RBI": 48,
+        "valeur": 12
+    },
+    {
+        "id": 512,
+        "nom": "Milo Robert",
+        "position": "Troisième base",
+        "AVG": 0.207,
+        "RBI": 27,
+        "valeur": 5
+    },
+    {
+        "id": 513,
+        "nom": "Valentin Robin",
+        "position": "Attrapeur",
+        "AVG": 0.302,
+        "RBI": 30,
+        "valeur": 8
+    },
+    {
+        "id": 514,
+        "nom": "Agathe Michel",
+        "position": "Right fielder",
+        "AVG": 0.224,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 515,
+        "nom": "Lina Roux",
+        "position": "Left fielder",
+        "AVG": 0.294,
+        "RBI": 31,
+        "valeur": 15
+    },
+    {
+        "id": 516,
+        "nom": "Nour Lefevre",
+        "position": "Left fielder",
+        "AVG": 0.204,
+        "RBI": 59,
+        "valeur": 8
+    },
+    {
+        "id": 517,
+        "nom": "Romy Legrand",
+        "position": "Left fielder",
+        "AVG": 0.258,
+        "RBI": 33,
+        "valeur": 8
+    },
+    {
+        "id": 518,
+        "nom": "Victor Gautier",
+        "position": "Attrapeur",
+        "AVG": 0.287,
+        "RBI": 54,
+        "valeur": 7
+    },
+    {
+        "id": 519,
+        "nom": "Augustin Bonnet",
+        "position": "Deuxième base",
+        "AVG": 0.269,
+        "RBI": 36,
+        "valeur": 15
+    },
+    {
+        "id": 520,
+        "nom": "Lou Boyer",
+        "position": "Shortstop",
+        "AVG": 0.29,
+        "RBI": 59,
+        "valeur": 11
+    },
+    {
+        "id": 521,
+        "nom": "Adèle Dubois",
+        "position": "Shortstop",
+        "AVG": 0.253,
+        "RBI": 49,
+        "valeur": 14
+    },
+    {
+        "id": 522,
+        "nom": "Marceau Morin",
+        "position": "Troisième base",
+        "AVG": 0.338,
+        "RBI": 57,
+        "valeur": 6
+    },
+    {
+        "id": 523,
+        "nom": "Inès Moreau",
+        "position": "Shortstop",
+        "AVG": 0.218,
+        "RBI": 39,
+        "valeur": 6
+    },
+    {
+        "id": 524,
+        "nom": "Ethan Fontaine",
+        "position": "Première base",
+        "AVG": 0.277,
+        "RBI": 46,
+        "valeur": 14
+    },
+    {
+        "id": 525,
+        "nom": "Aaron Francois",
+        "position": "Left fielder",
+        "AVG": 0.263,
+        "RBI": 51,
+        "valeur": 15
+    },
+    {
+        "id": 526,
+        "nom": "Inaya Nicolas",
+        "position": "Première base",
+        "AVG": 0.283,
+        "RBI": 51,
+        "valeur": 9
+    },
+    {
+        "id": 527,
+        "nom": "Aaron Michel",
+        "position": "Shortstop",
+        "AVG": 0.326,
+        "RBI": 59,
+        "valeur": 5
+    },
+    {
+        "id": 528,
+        "nom": "Axel Martin",
+        "position": "Center fielder",
+        "AVG": 0.22,
+        "RBI": 44,
+        "valeur": 13
+    },
+    {
+        "id": 529,
+        "nom": "Chloé Robin",
+        "position": "Center fielder",
+        "AVG": 0.261,
+        "RBI": 51,
+        "valeur": 11
+    },
+    {
+        "id": 530,
+        "nom": "Alix Faure",
+        "position": "Center fielder",
+        "AVG": 0.225,
+        "RBI": 56,
+        "valeur": 5
+    },
+    {
+        "id": 531,
+        "nom": "Éléna Roux",
+        "position": "Troisième base",
+        "AVG": 0.205,
+        "RBI": 34,
+        "valeur": 13
+    },
+    {
+        "id": 532,
+        "nom": "Rayan Simon",
+        "position": "Center fielder",
+        "AVG": 0.285,
+        "RBI": 51,
+        "valeur": 13
+    },
+    {
+        "id": 533,
+        "nom": "Alma Dubois",
+        "position": "Batteur désigné",
+        "AVG": 0.217,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 534,
+        "nom": "Charlie Gautier",
+        "position": "Lanceur",
+        "AVG": 0.314,
+        "RBI": 48,
+        "valeur": 13
+    },
+    {
+        "id": 535,
+        "nom": "Nino Lefevre",
+        "position": "Attrapeur",
+        "AVG": 0.31,
+        "RBI": 35,
+        "valeur": 9
+    },
+    {
+        "id": 536,
+        "nom": "Louis Faure",
+        "position": "Troisième base",
+        "AVG": 0.252,
+        "RBI": 25,
+        "valeur": 12
+    },
+    {
+        "id": 537,
+        "nom": "Hugo Masson",
+        "position": "Deuxième base",
+        "AVG": 0.231,
+        "RBI": 57,
+        "valeur": 10
+    },
+    {
+        "id": 538,
+        "nom": "Alix Garcia",
+        "position": "Left fielder",
+        "AVG": 0.225,
+        "RBI": 28,
+        "valeur": 8
+    },
+    {
+        "id": 539,
+        "nom": "Tom Petit",
+        "position": "Batteur désigné",
+        "AVG": 0.253,
+        "RBI": 37,
+        "valeur": 14
+    },
+    {
+        "id": 540,
+        "nom": "Inaya Simon",
+        "position": "Shortstop",
+        "AVG": 0.347,
+        "RBI": 38,
+        "valeur": 9
+    },
+    {
+        "id": 541,
+        "nom": "Luna Morel",
+        "position": "Right fielder",
+        "AVG": 0.348,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 542,
+        "nom": "Ava Muller",
+        "position": "Lanceur",
+        "AVG": 0.349,
+        "RBI": 28,
+        "valeur": 7
+    },
+    {
+        "id": 543,
+        "nom": "Mathis Laurent",
+        "position": "Shortstop",
+        "AVG": 0.324,
+        "RBI": 45,
+        "valeur": 12
+    },
+    {
+        "id": 544,
+        "nom": "Mohamed Francois",
+        "position": "Troisième base",
+        "AVG": 0.294,
+        "RBI": 44,
+        "valeur": 12
+    },
+    {
+        "id": 545,
+        "nom": "Lucas Perrin",
+        "position": "Attrapeur",
+        "AVG": 0.26,
+        "RBI": 37,
+        "valeur": 10
+    },
+    {
+        "id": 546,
+        "nom": "Anna Blanc",
+        "position": "Shortstop",
+        "AVG": 0.287,
+        "RBI": 25,
+        "valeur": 12
+    },
+    {
+        "id": 547,
+        "nom": "Léonie Clement",
+        "position": "Shortstop",
+        "AVG": 0.328,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 548,
+        "nom": "Nino Lefevre",
+        "position": "Deuxième base",
+        "AVG": 0.274,
+        "RBI": 40,
+        "valeur": 9
+    },
+    {
+        "id": 549,
+        "nom": "Valentin Chevalier",
+        "position": "Batteur désigné",
+        "AVG": 0.22,
+        "RBI": 51,
+        "valeur": 10
+    },
+    {
+        "id": 550,
+        "nom": "Lucie Gautier",
+        "position": "Lanceur",
+        "AVG": 0.207,
+        "RBI": 60,
+        "valeur": 12
+    },
+    {
+        "id": 551,
+        "nom": "Raphaël Dubois",
+        "position": "Première base",
+        "AVG": 0.266,
+        "RBI": 20,
+        "valeur": 11
+    },
+    {
+        "id": 552,
+        "nom": "Théo Nicolas",
+        "position": "Première base",
+        "AVG": 0.332,
+        "RBI": 39,
+        "valeur": 7
+    },
+    {
+        "id": 553,
+        "nom": "Victor Richard",
+        "position": "Shortstop",
+        "AVG": 0.238,
+        "RBI": 43,
+        "valeur": 15
+    },
+    {
+        "id": 554,
+        "nom": "Victoria Simon",
+        "position": "Lanceur",
+        "AVG": 0.259,
+        "RBI": 39,
+        "valeur": 8
+    },
+    {
+        "id": 555,
+        "nom": "Emma Robin",
+        "position": "Attrapeur",
+        "AVG": 0.306,
+        "RBI": 20,
+        "valeur": 8
+    },
+    {
+        "id": 556,
+        "nom": "Mia Robert",
+        "position": "Première base",
+        "AVG": 0.289,
+        "RBI": 53,
+        "valeur": 15
+    },
+    {
+        "id": 557,
+        "nom": "Alice Martin",
+        "position": "Lanceur",
+        "AVG": 0.304,
+        "RBI": 27,
+        "valeur": 11
+    },
+    {
+        "id": 558,
+        "nom": "Lyana Moreau",
+        "position": "Center fielder",
+        "AVG": 0.211,
+        "RBI": 44,
+        "valeur": 6
+    },
+    {
+        "id": 559,
+        "nom": "Sofia Durand",
+        "position": "Attrapeur",
+        "AVG": 0.247,
+        "RBI": 39,
+        "valeur": 7
+    },
+    {
+        "id": 560,
+        "nom": "Enzo Masson",
+        "position": "Première base",
+        "AVG": 0.296,
+        "RBI": 29,
+        "valeur": 6
+    },
+    {
+        "id": 561,
+        "nom": "Iris Francois",
+        "position": "Lanceur",
+        "AVG": 0.292,
+        "RBI": 30,
+        "valeur": 12
+    },
+    {
+        "id": 562,
+        "nom": "Ibrahim Roussel",
+        "position": "Deuxième base",
+        "AVG": 0.294,
+        "RBI": 29,
+        "valeur": 11
+    },
+    {
+        "id": 563,
+        "nom": "Éva Morin",
+        "position": "Center fielder",
+        "AVG": 0.329,
+        "RBI": 25,
+        "valeur": 6
+    },
+    {
+        "id": 564,
+        "nom": "Aaron Gautier",
+        "position": "Attrapeur",
+        "AVG": 0.288,
+        "RBI": 44,
+        "valeur": 10
+    },
+    {
+        "id": 565,
+        "nom": "Emma Bonnet",
+        "position": "Première base",
+        "AVG": 0.237,
+        "RBI": 25,
+        "valeur": 8
+    },
+    {
+        "id": 566,
+        "nom": "Juliette Gauthier",
+        "position": "Batteur désigné",
+        "AVG": 0.308,
+        "RBI": 38,
+        "valeur": 5
+    },
+    {
+        "id": 567,
+        "nom": "Nour Girard",
+        "position": "Deuxième base",
+        "AVG": 0.278,
+        "RBI": 52,
+        "valeur": 8
+    },
+    {
+        "id": 568,
+        "nom": "Margaux Vincent",
+        "position": "Troisième base",
+        "AVG": 0.297,
+        "RBI": 35,
+        "valeur": 12
+    },
+    {
+        "id": 569,
+        "nom": "Imran Dubois",
+        "position": "Deuxième base",
+        "AVG": 0.275,
+        "RBI": 58,
+        "valeur": 6
+    },
+    {
+        "id": 570,
+        "nom": "Iris Martin",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 28,
+        "valeur": 11
+    },
+    {
+        "id": 571,
+        "nom": "Victoire Muller",
+        "position": "Shortstop",
+        "AVG": 0.282,
+        "RBI": 31,
+        "valeur": 12
+    },
+    {
+        "id": 572,
+        "nom": "Emy Robert",
+        "position": "Lanceur",
+        "AVG": 0.288,
+        "RBI": 20,
+        "valeur": 9
+    },
+    {
+        "id": 573,
+        "nom": "Nino Thomas",
+        "position": "Lanceur",
+        "AVG": 0.342,
+        "RBI": 45,
+        "valeur": 13
+    },
+    {
+        "id": 574,
+        "nom": "Rayan Perrin",
+        "position": "Right fielder",
+        "AVG": 0.315,
+        "RBI": 47,
+        "valeur": 11
+    },
+    {
+        "id": 575,
+        "nom": "Liam Perrin",
+        "position": "Right fielder",
+        "AVG": 0.281,
+        "RBI": 29,
+        "valeur": 9
+    },
+    {
+        "id": 576,
+        "nom": "Liam Girard",
+        "position": "Attrapeur",
+        "AVG": 0.277,
+        "RBI": 33,
+        "valeur": 7
+    },
+    {
+        "id": 577,
+        "nom": "Inaya Bonnet",
+        "position": "Left fielder",
+        "AVG": 0.288,
+        "RBI": 24,
+        "valeur": 9
+    },
+    {
+        "id": 578,
+        "nom": "Lola Lefevre",
+        "position": "Deuxième base",
+        "AVG": 0.209,
+        "RBI": 25,
+        "valeur": 11
+    },
+    {
+        "id": 579,
+        "nom": "Éden Andre",
+        "position": "Batteur désigné",
+        "AVG": 0.291,
+        "RBI": 39,
+        "valeur": 15
+    },
+    {
+        "id": 580,
+        "nom": "Louna Clement",
+        "position": "Première base",
+        "AVG": 0.218,
+        "RBI": 28,
+        "valeur": 5
+    },
+    {
+        "id": 581,
+        "nom": "Paul Blanc",
+        "position": "Shortstop",
+        "AVG": 0.278,
+        "RBI": 36,
+        "valeur": 7
+    },
+    {
+        "id": 582,
+        "nom": "Amir Moreau",
+        "position": "Troisième base",
+        "AVG": 0.31,
+        "RBI": 27,
+        "valeur": 5
+    },
+    {
+        "id": 583,
+        "nom": "Tiago Lefevre",
+        "position": "Troisième base",
+        "AVG": 0.279,
+        "RBI": 36,
+        "valeur": 14
+    },
+    {
+        "id": 584,
+        "nom": "Zoé Robert",
+        "position": "Center fielder",
+        "AVG": 0.268,
+        "RBI": 43,
+        "valeur": 5
+    },
+    {
+        "id": 585,
+        "nom": "Julia Francois",
+        "position": "Première base",
+        "AVG": 0.255,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 586,
+        "nom": "Luna Morin",
+        "position": "Attrapeur",
+        "AVG": 0.234,
+        "RBI": 52,
+        "valeur": 5
+    },
+    {
+        "id": 587,
+        "nom": "Noah Martin",
+        "position": "Deuxième base",
+        "AVG": 0.207,
+        "RBI": 43,
+        "valeur": 11
+    },
+    {
+        "id": 588,
+        "nom": "Léon Michel",
+        "position": "Lanceur",
+        "AVG": 0.283,
+        "RBI": 46,
+        "valeur": 8
+    },
+    {
+        "id": 589,
+        "nom": "Robin David",
+        "position": "Left fielder",
+        "AVG": 0.337,
+        "RBI": 40,
+        "valeur": 9
+    },
+    {
+        "id": 590,
+        "nom": "Lucas Francois",
+        "position": "Shortstop",
+        "AVG": 0.218,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 591,
+        "nom": "Marius Boyer",
+        "position": "Lanceur",
+        "AVG": 0.343,
+        "RBI": 24,
+        "valeur": 12
+    },
+    {
+        "id": 592,
+        "nom": "Rayan Masson",
+        "position": "Troisième base",
+        "AVG": 0.249,
+        "RBI": 55,
+        "valeur": 12
+    },
+    {
+        "id": 593,
+        "nom": "Léo Fontaine",
+        "position": "Deuxième base",
+        "AVG": 0.244,
+        "RBI": 39,
+        "valeur": 14
+    },
+    {
+        "id": 594,
+        "nom": "Mathis Andre",
+        "position": "Shortstop",
+        "AVG": 0.289,
+        "RBI": 51,
+        "valeur": 8
+    },
+    {
+        "id": 595,
+        "nom": "Sofia Garnier",
+        "position": "Deuxième base",
+        "AVG": 0.223,
+        "RBI": 46,
+        "valeur": 5
+    },
+    {
+        "id": 596,
+        "nom": "Ayden Garnier",
+        "position": "Shortstop",
+        "AVG": 0.295,
+        "RBI": 20,
+        "valeur": 10
+    },
+    {
+        "id": 597,
+        "nom": "Gabriel Gautier",
+        "position": "Left fielder",
+        "AVG": 0.327,
+        "RBI": 39,
+        "valeur": 6
+    },
+    {
+        "id": 598,
+        "nom": "Tom Boyer",
+        "position": "Deuxième base",
+        "AVG": 0.263,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 599,
+        "nom": "Charlotte Morel",
+        "position": "Attrapeur",
+        "AVG": 0.207,
+        "RBI": 34,
+        "valeur": 13
+    },
+    {
+        "id": 600,
+        "nom": "Ambre Nicolas",
+        "position": "Shortstop",
+        "AVG": 0.269,
+        "RBI": 25,
+        "valeur": 14
+    },
+    {
+        "id": 601,
+        "nom": "Isaac Guerin",
+        "position": "Première base",
+        "AVG": 0.296,
+        "RBI": 45,
+        "valeur": 6
+    },
+    {
+        "id": 602,
+        "nom": "Adèle Francois",
+        "position": "Lanceur",
+        "AVG": 0.265,
+        "RBI": 28,
+        "valeur": 8
+    },
+    {
+        "id": 603,
+        "nom": "Elio Bertrand",
+        "position": "Shortstop",
+        "AVG": 0.339,
+        "RBI": 45,
+        "valeur": 10
+    },
+    {
+        "id": 604,
+        "nom": "Milo Faure",
+        "position": "Troisième base",
+        "AVG": 0.235,
+        "RBI": 32,
+        "valeur": 7
+    },
+    {
+        "id": 605,
+        "nom": "Mya Masson",
+        "position": "Batteur désigné",
+        "AVG": 0.216,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 606,
+        "nom": "Romy Andre",
+        "position": "Shortstop",
+        "AVG": 0.261,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 607,
+        "nom": "Emy Leroy",
+        "position": "Center fielder",
+        "AVG": 0.246,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 608,
+        "nom": "Sacha Simon",
+        "position": "Troisième base",
+        "AVG": 0.324,
+        "RBI": 58,
+        "valeur": 5
+    },
+    {
+        "id": 609,
+        "nom": "Nino Bonnet",
+        "position": "Première base",
+        "AVG": 0.214,
+        "RBI": 35,
+        "valeur": 10
+    },
+    {
+        "id": 610,
+        "nom": "Jade Guerin",
+        "position": "Lanceur",
+        "AVG": 0.302,
+        "RBI": 36,
+        "valeur": 7
+    },
+    {
+        "id": 611,
+        "nom": "Maël Vincent",
+        "position": "Center fielder",
+        "AVG": 0.283,
+        "RBI": 55,
+        "valeur": 8
+    },
+    {
+        "id": 612,
+        "nom": "Isaac Andre",
+        "position": "Attrapeur",
+        "AVG": 0.321,
+        "RBI": 28,
+        "valeur": 6
+    },
+    {
+        "id": 613,
+        "nom": "Léo Petit",
+        "position": "Deuxième base",
+        "AVG": 0.22,
+        "RBI": 45,
+        "valeur": 10
+    },
+    {
+        "id": 614,
+        "nom": "Lucie Perrin",
+        "position": "Attrapeur",
+        "AVG": 0.287,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 615,
+        "nom": "Raphaël Robert",
+        "position": "Deuxième base",
+        "AVG": 0.335,
+        "RBI": 48,
+        "valeur": 7
+    },
+    {
+        "id": 616,
+        "nom": "Sacha Dupont",
+        "position": "Attrapeur",
+        "AVG": 0.206,
+        "RBI": 49,
+        "valeur": 5
+    },
+    {
+        "id": 617,
+        "nom": "Noé Francois",
+        "position": "Left fielder",
+        "AVG": 0.323,
+        "RBI": 45,
+        "valeur": 12
+    },
+    {
+        "id": 618,
+        "nom": "Maël Rousseau",
+        "position": "Left fielder",
+        "AVG": 0.226,
+        "RBI": 33,
+        "valeur": 7
+    },
+    {
+        "id": 619,
+        "nom": "Victor Morel",
+        "position": "Center fielder",
+        "AVG": 0.333,
+        "RBI": 22,
+        "valeur": 14
+    },
+    {
+        "id": 620,
+        "nom": "Olivia Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.297,
+        "RBI": 51,
+        "valeur": 11
+    },
+    {
+        "id": 621,
+        "nom": "Juliette Mercier",
+        "position": "Lanceur",
+        "AVG": 0.213,
+        "RBI": 44,
+        "valeur": 7
+    },
+    {
+        "id": 622,
+        "nom": "Alba Lefebvre",
+        "position": "Right fielder",
+        "AVG": 0.237,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 623,
+        "nom": "Enzo Henry",
+        "position": "Shortstop",
+        "AVG": 0.272,
+        "RBI": 51,
+        "valeur": 10
+    },
+    {
+        "id": 624,
+        "nom": "Victoire Guerin",
+        "position": "Shortstop",
+        "AVG": 0.258,
+        "RBI": 31,
+        "valeur": 5
+    },
+    {
+        "id": 625,
+        "nom": "Milo Gauthier",
+        "position": "Deuxième base",
+        "AVG": 0.204,
+        "RBI": 37,
+        "valeur": 5
+    },
+    {
+        "id": 626,
+        "nom": "Léna Boyer",
+        "position": "Shortstop",
+        "AVG": 0.315,
+        "RBI": 34,
+        "valeur": 7
+    },
+    {
+        "id": 627,
+        "nom": "Isaac David",
+        "position": "Deuxième base",
+        "AVG": 0.24,
+        "RBI": 23,
+        "valeur": 8
+    },
+    {
+        "id": 628,
+        "nom": "Luna Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.34,
+        "RBI": 31,
+        "valeur": 7
+    },
+    {
+        "id": 629,
+        "nom": "Malo Legrand",
+        "position": "Shortstop",
+        "AVG": 0.321,
+        "RBI": 42,
+        "valeur": 14
+    },
+    {
+        "id": 630,
+        "nom": "Maël Henry",
+        "position": "Shortstop",
+        "AVG": 0.342,
+        "RBI": 56,
+        "valeur": 7
+    },
+    {
+        "id": 631,
+        "nom": "Victoire Lefebvre",
+        "position": "Center fielder",
+        "AVG": 0.281,
+        "RBI": 31,
+        "valeur": 12
+    },
+    {
+        "id": 632,
+        "nom": "Louis Richard",
+        "position": "Lanceur",
+        "AVG": 0.235,
+        "RBI": 34,
+        "valeur": 5
+    },
+    {
+        "id": 633,
+        "nom": "Iris Mercier",
+        "position": "Lanceur",
+        "AVG": 0.25,
+        "RBI": 59,
+        "valeur": 8
+    },
+    {
+        "id": 634,
+        "nom": "Naël Dupont",
+        "position": "Première base",
+        "AVG": 0.338,
+        "RBI": 40,
+        "valeur": 5
+    },
+    {
+        "id": 635,
+        "nom": "Raphaël Laurent",
+        "position": "Batteur désigné",
+        "AVG": 0.306,
+        "RBI": 29,
+        "valeur": 6
+    },
+    {
+        "id": 636,
+        "nom": "Iris Fontaine",
+        "position": "Attrapeur",
+        "AVG": 0.256,
+        "RBI": 45,
+        "valeur": 14
+    },
+    {
+        "id": 637,
+        "nom": "Isaac Dupont",
+        "position": "Troisième base",
+        "AVG": 0.248,
+        "RBI": 30,
+        "valeur": 11
+    },
+    {
+        "id": 638,
+        "nom": "Léonie Blanc",
+        "position": "Shortstop",
+        "AVG": 0.226,
+        "RBI": 55,
+        "valeur": 14
+    },
+    {
+        "id": 639,
+        "nom": "Axel Roux",
+        "position": "Batteur désigné",
+        "AVG": 0.322,
+        "RBI": 44,
+        "valeur": 9
+    },
+    {
+        "id": 640,
+        "nom": "Sofia Nicolas",
+        "position": "Troisième base",
+        "AVG": 0.219,
+        "RBI": 20,
+        "valeur": 14
+    },
+    {
+        "id": 641,
+        "nom": "Jade Masson",
+        "position": "Batteur désigné",
+        "AVG": 0.205,
+        "RBI": 58,
+        "valeur": 10
+    },
+    {
+        "id": 642,
+        "nom": "Éva Roux",
+        "position": "Batteur désigné",
+        "AVG": 0.216,
+        "RBI": 51,
+        "valeur": 7
+    },
+    {
+        "id": 643,
+        "nom": "Tiago Mathieu",
+        "position": "Attrapeur",
+        "AVG": 0.236,
+        "RBI": 40,
+        "valeur": 7
+    },
+    {
+        "id": 644,
+        "nom": "Léonie Richard",
+        "position": "Shortstop",
+        "AVG": 0.267,
+        "RBI": 36,
+        "valeur": 8
+    },
+    {
+        "id": 645,
+        "nom": "Mathis Nicolas",
+        "position": "Attrapeur",
+        "AVG": 0.253,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 646,
+        "nom": "Jules Rousseau",
+        "position": "Center fielder",
+        "AVG": 0.31,
+        "RBI": 30,
+        "valeur": 11
+    },
+    {
+        "id": 647,
+        "nom": "Julia Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.282,
+        "RBI": 26,
+        "valeur": 12
+    },
+    {
+        "id": 648,
+        "nom": "Luna Robin",
+        "position": "Deuxième base",
+        "AVG": 0.224,
+        "RBI": 24,
+        "valeur": 5
+    },
+    {
+        "id": 649,
+        "nom": "Elio Bernard",
+        "position": "Shortstop",
+        "AVG": 0.239,
+        "RBI": 26,
+        "valeur": 6
+    },
+    {
+        "id": 650,
+        "nom": "Valentin Simon",
+        "position": "Left fielder",
+        "AVG": 0.224,
+        "RBI": 24,
+        "valeur": 13
+    },
+    {
+        "id": 651,
+        "nom": "Sacha Dupont",
+        "position": "Batteur désigné",
+        "AVG": 0.348,
+        "RBI": 50,
+        "valeur": 5
+    },
+    {
+        "id": 652,
+        "nom": "Rose Robin",
+        "position": "Première base",
+        "AVG": 0.291,
+        "RBI": 47,
+        "valeur": 7
+    },
+    {
+        "id": 653,
+        "nom": "Jules Durand",
+        "position": "Shortstop",
+        "AVG": 0.231,
+        "RBI": 32,
+        "valeur": 11
+    },
+    {
+        "id": 654,
+        "nom": "Lola Chevalier",
+        "position": "Right fielder",
+        "AVG": 0.24,
+        "RBI": 38,
+        "valeur": 9
+    },
+    {
+        "id": 655,
+        "nom": "Malo Durand",
+        "position": "Lanceur",
+        "AVG": 0.259,
+        "RBI": 55,
+        "valeur": 12
+    },
+    {
+        "id": 656,
+        "nom": "Léon Petit",
+        "position": "Shortstop",
+        "AVG": 0.201,
+        "RBI": 25,
+        "valeur": 9
+    },
+    {
+        "id": 657,
+        "nom": "Nour Perrin",
+        "position": "Batteur désigné",
+        "AVG": 0.272,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 658,
+        "nom": "Tom Simon",
+        "position": "Troisième base",
+        "AVG": 0.347,
+        "RBI": 50,
+        "valeur": 6
+    },
+    {
+        "id": 659,
+        "nom": "Eliott Vincent",
+        "position": "Center fielder",
+        "AVG": 0.273,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 660,
+        "nom": "Romane Garnier",
+        "position": "Left fielder",
+        "AVG": 0.228,
+        "RBI": 44,
+        "valeur": 10
+    },
+    {
+        "id": 661,
+        "nom": "Ethan Faure",
+        "position": "Lanceur",
+        "AVG": 0.239,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 662,
+        "nom": "Marius Morel",
+        "position": "Batteur désigné",
+        "AVG": 0.209,
+        "RBI": 26,
+        "valeur": 6
+    },
+    {
+        "id": 663,
+        "nom": "Lya Lambert",
+        "position": "Right fielder",
+        "AVG": 0.262,
+        "RBI": 57,
+        "valeur": 8
+    },
+    {
+        "id": 664,
+        "nom": "Juliette Petit",
+        "position": "Left fielder",
+        "AVG": 0.323,
+        "RBI": 46,
+        "valeur": 13
+    },
+    {
+        "id": 665,
+        "nom": "Lucie Mercier",
+        "position": "Batteur désigné",
+        "AVG": 0.332,
+        "RBI": 50,
+        "valeur": 9
+    },
+    {
+        "id": 666,
+        "nom": "Liam Vincent",
+        "position": "Lanceur",
+        "AVG": 0.275,
+        "RBI": 53,
+        "valeur": 14
+    },
+    {
+        "id": 667,
+        "nom": "Inès Garcia",
+        "position": "Première base",
+        "AVG": 0.218,
+        "RBI": 48,
+        "valeur": 7
+    },
+    {
+        "id": 668,
+        "nom": "Noé Leroy",
+        "position": "Deuxième base",
+        "AVG": 0.219,
+        "RBI": 47,
+        "valeur": 6
+    },
+    {
+        "id": 669,
+        "nom": "Lucie Lefevre",
+        "position": "Deuxième base",
+        "AVG": 0.35,
+        "RBI": 60,
+        "valeur": 7
+    },
+    {
+        "id": 670,
+        "nom": "Jeanne Bertrand",
+        "position": "Shortstop",
+        "AVG": 0.337,
+        "RBI": 24,
+        "valeur": 6
+    },
+    {
+        "id": 671,
+        "nom": "Imran Chevalier",
+        "position": "Left fielder",
+        "AVG": 0.283,
+        "RBI": 37,
+        "valeur": 13
+    },
+    {
+        "id": 672,
+        "nom": "Anna Martin",
+        "position": "Batteur désigné",
+        "AVG": 0.288,
+        "RBI": 46,
+        "valeur": 6
+    },
+    {
+        "id": 673,
+        "nom": "Alba Laurent",
+        "position": "Première base",
+        "AVG": 0.285,
+        "RBI": 57,
+        "valeur": 6
+    },
+    {
+        "id": 674,
+        "nom": "Gabin Francois",
+        "position": "Attrapeur",
+        "AVG": 0.318,
+        "RBI": 54,
+        "valeur": 10
+    },
+    {
+        "id": 675,
+        "nom": "Ambre Bertrand",
+        "position": "Left fielder",
+        "AVG": 0.298,
+        "RBI": 56,
+        "valeur": 14
+    },
+    {
+        "id": 676,
+        "nom": "Léna Thomas",
+        "position": "Première base",
+        "AVG": 0.241,
+        "RBI": 29,
+        "valeur": 14
+    },
+    {
+        "id": 677,
+        "nom": "Nina Morin",
+        "position": "Left fielder",
+        "AVG": 0.206,
+        "RBI": 41,
+        "valeur": 8
+    },
+    {
+        "id": 678,
+        "nom": "Jules Mathieu",
+        "position": "Center fielder",
+        "AVG": 0.338,
+        "RBI": 43,
+        "valeur": 5
+    },
+    {
+        "id": 679,
+        "nom": "Valentin Girard",
+        "position": "Troisième base",
+        "AVG": 0.242,
+        "RBI": 51,
+        "valeur": 15
+    },
+    {
+        "id": 680,
+        "nom": "Isaac Roux",
+        "position": "Première base",
+        "AVG": 0.245,
+        "RBI": 48,
+        "valeur": 10
+    },
+    {
+        "id": 681,
+        "nom": "Lyam Roussel",
+        "position": "Left fielder",
+        "AVG": 0.291,
+        "RBI": 25,
+        "valeur": 8
+    },
+    {
+        "id": 682,
+        "nom": "Alice Leroy",
+        "position": "Left fielder",
+        "AVG": 0.311,
+        "RBI": 53,
+        "valeur": 10
+    },
+    {
+        "id": 683,
+        "nom": "Arthur Guerin",
+        "position": "Première base",
+        "AVG": 0.21,
+        "RBI": 52,
+        "valeur": 11
+    },
+    {
+        "id": 684,
+        "nom": "Aaron Masson",
+        "position": "Right fielder",
+        "AVG": 0.332,
+        "RBI": 21,
+        "valeur": 7
+    },
+    {
+        "id": 685,
+        "nom": "Nathan Lefebvre",
+        "position": "Lanceur",
+        "AVG": 0.237,
+        "RBI": 49,
+        "valeur": 5
+    },
+    {
+        "id": 686,
+        "nom": "Augustin Henry",
+        "position": "Deuxième base",
+        "AVG": 0.241,
+        "RBI": 49,
+        "valeur": 13
+    },
+    {
+        "id": 687,
+        "nom": "Jade Perrin",
+        "position": "Attrapeur",
+        "AVG": 0.302,
+        "RBI": 35,
+        "valeur": 10
+    },
+    {
+        "id": 688,
+        "nom": "Lou Gauthier",
+        "position": "Center fielder",
+        "AVG": 0.227,
+        "RBI": 50,
+        "valeur": 14
+    },
+    {
+        "id": 689,
+        "nom": "Juliette Lambert",
+        "position": "Shortstop",
+        "AVG": 0.225,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 690,
+        "nom": "Rayan Bernard",
+        "position": "Left fielder",
+        "AVG": 0.207,
+        "RBI": 56,
+        "valeur": 8
+    },
+    {
+        "id": 691,
+        "nom": "Marius Robin",
+        "position": "Deuxième base",
+        "AVG": 0.302,
+        "RBI": 37,
+        "valeur": 15
+    },
+    {
+        "id": 692,
+        "nom": "Ambre Guerin",
+        "position": "Lanceur",
+        "AVG": 0.33,
+        "RBI": 20,
+        "valeur": 12
+    },
+    {
+        "id": 693,
+        "nom": "Naël Robin",
+        "position": "Première base",
+        "AVG": 0.29,
+        "RBI": 20,
+        "valeur": 8
+    },
+    {
+        "id": 694,
+        "nom": "Gaspard Gauthier",
+        "position": "Troisième base",
+        "AVG": 0.307,
+        "RBI": 37,
+        "valeur": 11
+    },
+    {
+        "id": 695,
+        "nom": "Enzo Lambert",
+        "position": "Center fielder",
+        "AVG": 0.238,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 696,
+        "nom": "Inès Boyer",
+        "position": "Batteur désigné",
+        "AVG": 0.26,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 697,
+        "nom": "Alma Clement",
+        "position": "Shortstop",
+        "AVG": 0.284,
+        "RBI": 58,
+        "valeur": 14
+    },
+    {
+        "id": 698,
+        "nom": "Rayan Girard",
+        "position": "Attrapeur",
+        "AVG": 0.272,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 699,
+        "nom": "Léonie Bonnet",
+        "position": "Troisième base",
+        "AVG": 0.239,
+        "RBI": 39,
+        "valeur": 8
+    },
+    {
+        "id": 700,
+        "nom": "Léon Boyer",
+        "position": "Deuxième base",
+        "AVG": 0.335,
+        "RBI": 58,
+        "valeur": 11
+    },
+    {
+        "id": 701,
+        "nom": "Nour Bonnet",
+        "position": "Première base",
+        "AVG": 0.308,
+        "RBI": 51,
+        "valeur": 9
+    },
+    {
+        "id": 702,
+        "nom": "Martin Muller",
+        "position": "Left fielder",
+        "AVG": 0.258,
+        "RBI": 22,
+        "valeur": 14
+    },
+    {
+        "id": 703,
+        "nom": "Alix Francois",
+        "position": "Deuxième base",
+        "AVG": 0.251,
+        "RBI": 34,
+        "valeur": 15
+    },
+    {
+        "id": 704,
+        "nom": "Inaya Perrin",
+        "position": "Center fielder",
+        "AVG": 0.336,
+        "RBI": 42,
+        "valeur": 13
+    },
+    {
+        "id": 705,
+        "nom": "Timéo Simon",
+        "position": "Right fielder",
+        "AVG": 0.227,
+        "RBI": 26,
+        "valeur": 12
+    },
+    {
+        "id": 706,
+        "nom": "Naël Mathieu",
+        "position": "Troisième base",
+        "AVG": 0.309,
+        "RBI": 55,
+        "valeur": 7
+    },
+    {
+        "id": 707,
+        "nom": "Lucie Dupont",
+        "position": "Attrapeur",
+        "AVG": 0.233,
+        "RBI": 34,
+        "valeur": 9
+    },
+    {
+        "id": 708,
+        "nom": "Alba Dupont",
+        "position": "Shortstop",
+        "AVG": 0.239,
+        "RBI": 38,
+        "valeur": 12
+    },
+    {
+        "id": 709,
+        "nom": "Hugo Mercier",
+        "position": "Lanceur",
+        "AVG": 0.33,
+        "RBI": 57,
+        "valeur": 14
+    },
+    {
+        "id": 710,
+        "nom": "Olivia Robert",
+        "position": "Center fielder",
+        "AVG": 0.333,
+        "RBI": 52,
+        "valeur": 6
+    },
+    {
+        "id": 711,
+        "nom": "Lucie Rousseau",
+        "position": "Right fielder",
+        "AVG": 0.245,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 712,
+        "nom": "Aaron Lefebvre",
+        "position": "Shortstop",
+        "AVG": 0.261,
+        "RBI": 56,
+        "valeur": 12
+    },
+    {
+        "id": 713,
+        "nom": "Mohamed Bonnet",
+        "position": "Première base",
+        "AVG": 0.317,
+        "RBI": 51,
+        "valeur": 10
+    },
+    {
+        "id": 714,
+        "nom": "Zoé Michel",
+        "position": "Shortstop",
+        "AVG": 0.295,
+        "RBI": 20,
+        "valeur": 12
+    },
+    {
+        "id": 715,
+        "nom": "Victor Leroy",
+        "position": "Première base",
+        "AVG": 0.286,
+        "RBI": 30,
+        "valeur": 12
+    },
+    {
+        "id": 716,
+        "nom": "Éléna Masson",
+        "position": "Attrapeur",
+        "AVG": 0.219,
+        "RBI": 47,
+        "valeur": 15
+    },
+    {
+        "id": 717,
+        "nom": "Emma Vincent",
+        "position": "Left fielder",
+        "AVG": 0.345,
+        "RBI": 44,
+        "valeur": 5
+    },
+    {
+        "id": 718,
+        "nom": "Louis Garnier",
+        "position": "Deuxième base",
+        "AVG": 0.31,
+        "RBI": 20,
+        "valeur": 10
+    },
+    {
+        "id": 719,
+        "nom": "Ava Boyer",
+        "position": "Deuxième base",
+        "AVG": 0.203,
+        "RBI": 20,
+        "valeur": 15
+    },
+    {
+        "id": 720,
+        "nom": "Sofia David",
+        "position": "Deuxième base",
+        "AVG": 0.304,
+        "RBI": 42,
+        "valeur": 9
+    },
+    {
+        "id": 721,
+        "nom": "Naël Durand",
+        "position": "Left fielder",
+        "AVG": 0.276,
+        "RBI": 39,
+        "valeur": 7
+    },
+    {
+        "id": 722,
+        "nom": "Adam Thomas",
+        "position": "Troisième base",
+        "AVG": 0.342,
+        "RBI": 49,
+        "valeur": 13
+    },
+    {
+        "id": 723,
+        "nom": "Jeanne Boyer",
+        "position": "Shortstop",
+        "AVG": 0.265,
+        "RBI": 28,
+        "valeur": 10
+    },
+    {
+        "id": 724,
+        "nom": "Lou Lambert",
+        "position": "Deuxième base",
+        "AVG": 0.225,
+        "RBI": 45,
+        "valeur": 5
+    },
+    {
+        "id": 725,
+        "nom": "Ayden Roux",
+        "position": "Première base",
+        "AVG": 0.232,
+        "RBI": 21,
+        "valeur": 14
+    },
+    {
+        "id": 726,
+        "nom": "Chloé Simon",
+        "position": "Attrapeur",
+        "AVG": 0.255,
+        "RBI": 22,
+        "valeur": 11
+    },
+    {
+        "id": 727,
+        "nom": "Léonie Bertrand",
+        "position": "Right fielder",
+        "AVG": 0.293,
+        "RBI": 58,
+        "valeur": 5
+    },
+    {
+        "id": 728,
+        "nom": "Nour Durand",
+        "position": "Lanceur",
+        "AVG": 0.207,
+        "RBI": 27,
+        "valeur": 11
+    },
+    {
+        "id": 729,
+        "nom": "Alice Rousseau",
+        "position": "Attrapeur",
+        "AVG": 0.282,
+        "RBI": 50,
+        "valeur": 7
+    },
+    {
+        "id": 730,
+        "nom": "Tom Nicolas",
+        "position": "Lanceur",
+        "AVG": 0.245,
+        "RBI": 26,
+        "valeur": 15
+    },
+    {
+        "id": 731,
+        "nom": "Agathe Morel",
+        "position": "Batteur désigné",
+        "AVG": 0.291,
+        "RBI": 28,
+        "valeur": 11
+    },
+    {
+        "id": 732,
+        "nom": "Gabin Guerin",
+        "position": "Batteur désigné",
+        "AVG": 0.218,
+        "RBI": 27,
+        "valeur": 6
+    },
+    {
+        "id": 733,
+        "nom": "Julia Lefebvre",
+        "position": "Batteur désigné",
+        "AVG": 0.23,
+        "RBI": 36,
+        "valeur": 13
+    },
+    {
+        "id": 734,
+        "nom": "Théo Lambert",
+        "position": "Left fielder",
+        "AVG": 0.244,
+        "RBI": 22,
+        "valeur": 13
+    },
+    {
+        "id": 735,
+        "nom": "Julia Leroy",
+        "position": "Center fielder",
+        "AVG": 0.25,
+        "RBI": 20,
+        "valeur": 5
+    },
+    {
+        "id": 736,
+        "nom": "Lya Richard",
+        "position": "Attrapeur",
+        "AVG": 0.325,
+        "RBI": 51,
+        "valeur": 7
+    },
+    {
+        "id": 737,
+        "nom": "Sacha Masson",
+        "position": "Right fielder",
+        "AVG": 0.211,
+        "RBI": 26,
+        "valeur": 9
+    },
+    {
+        "id": 738,
+        "nom": "Romane Roux",
+        "position": "Center fielder",
+        "AVG": 0.348,
+        "RBI": 38,
+        "valeur": 9
+    },
+    {
+        "id": 739,
+        "nom": "Lina Petit",
+        "position": "Attrapeur",
+        "AVG": 0.322,
+        "RBI": 22,
+        "valeur": 9
+    },
+    {
+        "id": 740,
+        "nom": "Augustin Morin",
+        "position": "Shortstop",
+        "AVG": 0.264,
+        "RBI": 27,
+        "valeur": 6
+    },
+    {
+        "id": 741,
+        "nom": "Éléna Thomas",
+        "position": "Lanceur",
+        "AVG": 0.328,
+        "RBI": 30,
+        "valeur": 10
+    },
+    {
+        "id": 742,
+        "nom": "Axel Faure",
+        "position": "Batteur désigné",
+        "AVG": 0.24,
+        "RBI": 25,
+        "valeur": 10
+    },
+    {
+        "id": 743,
+        "nom": "Valentin Michel",
+        "position": "Attrapeur",
+        "AVG": 0.26,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 744,
+        "nom": "Imran Nicolas",
+        "position": "Center fielder",
+        "AVG": 0.32,
+        "RBI": 30,
+        "valeur": 6
+    },
+    {
+        "id": 745,
+        "nom": "Naël Nicolas",
+        "position": "Lanceur",
+        "AVG": 0.347,
+        "RBI": 30,
+        "valeur": 6
+    },
+    {
+        "id": 746,
+        "nom": "Alba Legrand",
+        "position": "Center fielder",
+        "AVG": 0.32,
+        "RBI": 48,
+        "valeur": 7
+    },
+    {
+        "id": 747,
+        "nom": "Éva Rousseau",
+        "position": "Shortstop",
+        "AVG": 0.292,
+        "RBI": 28,
+        "valeur": 12
+    },
+    {
+        "id": 748,
+        "nom": "Lou Dubois",
+        "position": "Left fielder",
+        "AVG": 0.266,
+        "RBI": 24,
+        "valeur": 9
+    },
+    {
+        "id": 749,
+        "nom": "Victoria Bonnet",
+        "position": "Lanceur",
+        "AVG": 0.306,
+        "RBI": 53,
+        "valeur": 14
+    },
+    {
+        "id": 750,
+        "nom": "Mila Francois",
+        "position": "Deuxième base",
+        "AVG": 0.347,
+        "RBI": 41,
+        "valeur": 13
+    },
+    {
+        "id": 751,
+        "nom": "Agathe Nicolas",
+        "position": "Batteur désigné",
+        "AVG": 0.214,
+        "RBI": 35,
+        "valeur": 12
+    },
+    {
+        "id": 752,
+        "nom": "Ibrahim Clement",
+        "position": "Left fielder",
+        "AVG": 0.222,
+        "RBI": 55,
+        "valeur": 14
+    },
+    {
+        "id": 753,
+        "nom": "Jules Martin",
+        "position": "Première base",
+        "AVG": 0.276,
+        "RBI": 50,
+        "valeur": 12
+    },
+    {
+        "id": 754,
+        "nom": "Noé Robert",
+        "position": "Center fielder",
+        "AVG": 0.248,
+        "RBI": 41,
+        "valeur": 9
+    },
+    {
+        "id": 755,
+        "nom": "Jules Guerin",
+        "position": "Deuxième base",
+        "AVG": 0.283,
+        "RBI": 44,
+        "valeur": 11
+    },
+    {
+        "id": 756,
+        "nom": "Malo Richard",
+        "position": "Center fielder",
+        "AVG": 0.267,
+        "RBI": 56,
+        "valeur": 12
+    },
+    {
+        "id": 757,
+        "nom": "Sacha Blanc",
+        "position": "Center fielder",
+        "AVG": 0.247,
+        "RBI": 51,
+        "valeur": 15
+    },
+    {
+        "id": 758,
+        "nom": "Raphaël Durand",
+        "position": "Left fielder",
+        "AVG": 0.262,
+        "RBI": 55,
+        "valeur": 13
+    },
+    {
+        "id": 759,
+        "nom": "Gabriel Richard",
+        "position": "Batteur désigné",
+        "AVG": 0.344,
+        "RBI": 60,
+        "valeur": 9
+    },
+    {
+        "id": 760,
+        "nom": "Alma Chevalier",
+        "position": "Deuxième base",
+        "AVG": 0.298,
+        "RBI": 49,
+        "valeur": 10
+    },
+    {
+        "id": 761,
+        "nom": "Augustin Petit",
+        "position": "Deuxième base",
+        "AVG": 0.327,
+        "RBI": 41,
+        "valeur": 13
+    },
+    {
+        "id": 762,
+        "nom": "Emy Garcia",
+        "position": "Batteur désigné",
+        "AVG": 0.271,
+        "RBI": 43,
+        "valeur": 12
+    },
+    {
+        "id": 763,
+        "nom": "Éden Durand",
+        "position": "Deuxième base",
+        "AVG": 0.2,
+        "RBI": 42,
+        "valeur": 15
+    },
+    {
+        "id": 764,
+        "nom": "Elio Chevalier",
+        "position": "Right fielder",
+        "AVG": 0.256,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 765,
+        "nom": "Noé Blanc",
+        "position": "Première base",
+        "AVG": 0.323,
+        "RBI": 46,
+        "valeur": 6
+    },
+    {
+        "id": 766,
+        "nom": "Gaspard Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.228,
+        "RBI": 45,
+        "valeur": 8
+    },
+    {
+        "id": 767,
+        "nom": "Anna Lefebvre",
+        "position": "Shortstop",
+        "AVG": 0.216,
+        "RBI": 46,
+        "valeur": 5
+    },
+    {
+        "id": 768,
+        "nom": "Léonie Morin",
+        "position": "Batteur désigné",
+        "AVG": 0.218,
+        "RBI": 48,
+        "valeur": 12
+    },
+    {
+        "id": 769,
+        "nom": "Nour Legrand",
+        "position": "Right fielder",
+        "AVG": 0.22,
+        "RBI": 51,
+        "valeur": 5
+    },
+    {
+        "id": 770,
+        "nom": "Iris Mathieu",
+        "position": "Lanceur",
+        "AVG": 0.283,
+        "RBI": 47,
+        "valeur": 14
+    },
+    {
+        "id": 771,
+        "nom": "Mia Guerin",
+        "position": "Première base",
+        "AVG": 0.304,
+        "RBI": 31,
+        "valeur": 7
+    },
+    {
+        "id": 772,
+        "nom": "Gabin Rousseau",
+        "position": "Batteur désigné",
+        "AVG": 0.291,
+        "RBI": 40,
+        "valeur": 13
+    },
+    {
+        "id": 773,
+        "nom": "Imran Muller",
+        "position": "Batteur désigné",
+        "AVG": 0.337,
+        "RBI": 35,
+        "valeur": 9
+    },
+    {
+        "id": 774,
+        "nom": "Jade Dupont",
+        "position": "Troisième base",
+        "AVG": 0.268,
+        "RBI": 28,
+        "valeur": 7
+    },
+    {
+        "id": 775,
+        "nom": "Ambre Gauthier",
+        "position": "Right fielder",
+        "AVG": 0.245,
+        "RBI": 55,
+        "valeur": 10
+    },
+    {
+        "id": 776,
+        "nom": "Charlotte Mathieu",
+        "position": "Right fielder",
+        "AVG": 0.295,
+        "RBI": 32,
+        "valeur": 8
+    },
+    {
+        "id": 777,
+        "nom": "Olivia Henry",
+        "position": "Troisième base",
+        "AVG": 0.303,
+        "RBI": 28,
+        "valeur": 15
+    },
+    {
+        "id": 778,
+        "nom": "Marceau Guerin",
+        "position": "Right fielder",
+        "AVG": 0.304,
+        "RBI": 40,
+        "valeur": 6
+    },
+    {
+        "id": 779,
+        "nom": "Éléna Lambert",
+        "position": "Right fielder",
+        "AVG": 0.272,
+        "RBI": 56,
+        "valeur": 15
+    },
+    {
+        "id": 780,
+        "nom": "Alix Muller",
+        "position": "Right fielder",
+        "AVG": 0.243,
+        "RBI": 47,
+        "valeur": 5
+    },
+    {
+        "id": 781,
+        "nom": "Agathe Durand",
+        "position": "Lanceur",
+        "AVG": 0.257,
+        "RBI": 23,
+        "valeur": 15
+    },
+    {
+        "id": 782,
+        "nom": "Arthur Lefebvre",
+        "position": "Troisième base",
+        "AVG": 0.313,
+        "RBI": 30,
+        "valeur": 9
+    },
+    {
+        "id": 783,
+        "nom": "Lucie Bertrand",
+        "position": "Première base",
+        "AVG": 0.326,
+        "RBI": 38,
+        "valeur": 8
+    },
+    {
+        "id": 784,
+        "nom": "Ava Garnier",
+        "position": "Lanceur",
+        "AVG": 0.254,
+        "RBI": 48,
+        "valeur": 6
+    },
+    {
+        "id": 785,
+        "nom": "Éva Morin",
+        "position": "Right fielder",
+        "AVG": 0.33,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 786,
+        "nom": "Malo Guerin",
+        "position": "Troisième base",
+        "AVG": 0.304,
+        "RBI": 23,
+        "valeur": 11
+    },
+    {
+        "id": 787,
+        "nom": "Imran Muller",
+        "position": "Shortstop",
+        "AVG": 0.345,
+        "RBI": 23,
+        "valeur": 5
+    },
+    {
+        "id": 788,
+        "nom": "Margaux Bertrand",
+        "position": "Deuxième base",
+        "AVG": 0.293,
+        "RBI": 48,
+        "valeur": 8
+    },
+    {
+        "id": 789,
+        "nom": "Léonie Henry",
+        "position": "Shortstop",
+        "AVG": 0.313,
+        "RBI": 54,
+        "valeur": 14
+    },
+    {
+        "id": 790,
+        "nom": "Théo Masson",
+        "position": "Deuxième base",
+        "AVG": 0.244,
+        "RBI": 31,
+        "valeur": 15
+    },
+    {
+        "id": 791,
+        "nom": "Lucas Michel",
+        "position": "Première base",
+        "AVG": 0.31,
+        "RBI": 27,
+        "valeur": 11
+    },
+    {
+        "id": 792,
+        "nom": "Noah Lefevre",
+        "position": "Troisième base",
+        "AVG": 0.283,
+        "RBI": 28,
+        "valeur": 7
+    },
+    {
+        "id": 793,
+        "nom": "Giulia Bertrand",
+        "position": "Lanceur",
+        "AVG": 0.25,
+        "RBI": 29,
+        "valeur": 5
+    },
+    {
+        "id": 794,
+        "nom": "Léon Bonnet",
+        "position": "Batteur désigné",
+        "AVG": 0.208,
+        "RBI": 60,
+        "valeur": 14
+    },
+    {
+        "id": 795,
+        "nom": "Nour Girard",
+        "position": "Center fielder",
+        "AVG": 0.318,
+        "RBI": 55,
+        "valeur": 10
+    },
+    {
+        "id": 796,
+        "nom": "Lucas Henry",
+        "position": "Shortstop",
+        "AVG": 0.279,
+        "RBI": 31,
+        "valeur": 13
+    },
+    {
+        "id": 797,
+        "nom": "Adam Guerin",
+        "position": "Première base",
+        "AVG": 0.262,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 798,
+        "nom": "Sacha Lambert",
+        "position": "Deuxième base",
+        "AVG": 0.333,
+        "RBI": 41,
+        "valeur": 10
+    },
+    {
+        "id": 799,
+        "nom": "Augustin Fournier",
+        "position": "Deuxième base",
+        "AVG": 0.343,
+        "RBI": 59,
+        "valeur": 13
+    },
+    {
+        "id": 800,
+        "nom": "Léna Chevalier",
+        "position": "Lanceur",
+        "AVG": 0.217,
+        "RBI": 42,
+        "valeur": 12
+    },
+    {
+        "id": 801,
+        "nom": "Malo Robin",
+        "position": "Batteur désigné",
+        "AVG": 0.338,
+        "RBI": 35,
+        "valeur": 5
+    },
+    {
+        "id": 802,
+        "nom": "Lucie Bonnet",
+        "position": "Left fielder",
+        "AVG": 0.337,
+        "RBI": 27,
+        "valeur": 11
+    },
+    {
+        "id": 803,
+        "nom": "Gaspard Garnier",
+        "position": "Troisième base",
+        "AVG": 0.204,
+        "RBI": 53,
+        "valeur": 10
+    },
+    {
+        "id": 804,
+        "nom": "Alma Guerin",
+        "position": "Center fielder",
+        "AVG": 0.273,
+        "RBI": 38,
+        "valeur": 15
+    },
+    {
+        "id": 805,
+        "nom": "Nathan Bonnet",
+        "position": "Right fielder",
+        "AVG": 0.212,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 806,
+        "nom": "Emy Garnier",
+        "position": "Right fielder",
+        "AVG": 0.201,
+        "RBI": 24,
+        "valeur": 8
+    },
+    {
+        "id": 807,
+        "nom": "Lya Perrin",
+        "position": "Deuxième base",
+        "AVG": 0.33,
+        "RBI": 47,
+        "valeur": 6
+    },
+    {
+        "id": 808,
+        "nom": "Tom Garnier",
+        "position": "Left fielder",
+        "AVG": 0.297,
+        "RBI": 24,
+        "valeur": 15
+    },
+    {
+        "id": 809,
+        "nom": "Léon Bernard",
+        "position": "Center fielder",
+        "AVG": 0.308,
+        "RBI": 22,
+        "valeur": 6
+    },
+    {
+        "id": 810,
+        "nom": "Lucas Petit",
+        "position": "Première base",
+        "AVG": 0.319,
+        "RBI": 55,
+        "valeur": 6
+    },
+    {
+        "id": 811,
+        "nom": "Luna Roux",
+        "position": "Troisième base",
+        "AVG": 0.261,
+        "RBI": 48,
+        "valeur": 15
+    },
+    {
+        "id": 812,
+        "nom": "Louise Lefevre",
+        "position": "Shortstop",
+        "AVG": 0.203,
+        "RBI": 27,
+        "valeur": 13
+    },
+    {
+        "id": 813,
+        "nom": "Gabriel Robin",
+        "position": "Batteur désigné",
+        "AVG": 0.209,
+        "RBI": 57,
+        "valeur": 5
+    },
+    {
+        "id": 814,
+        "nom": "Lola Robert",
+        "position": "Shortstop",
+        "AVG": 0.339,
+        "RBI": 26,
+        "valeur": 9
+    },
+    {
+        "id": 815,
+        "nom": "Lucie Girard",
+        "position": "Batteur désigné",
+        "AVG": 0.213,
+        "RBI": 48,
+        "valeur": 11
+    },
+    {
+        "id": 816,
+        "nom": "Jade Clement",
+        "position": "Lanceur",
+        "AVG": 0.271,
+        "RBI": 54,
+        "valeur": 8
+    },
+    {
+        "id": 817,
+        "nom": "Aaron Mathieu",
+        "position": "Left fielder",
+        "AVG": 0.32,
+        "RBI": 54,
+        "valeur": 9
+    },
+    {
+        "id": 818,
+        "nom": "Léonie Laurent",
+        "position": "Troisième base",
+        "AVG": 0.302,
+        "RBI": 43,
+        "valeur": 5
+    },
+    {
+        "id": 819,
+        "nom": "Juliette Chevalier",
+        "position": "Première base",
+        "AVG": 0.218,
+        "RBI": 20,
+        "valeur": 14
+    },
+    {
+        "id": 820,
+        "nom": "Jeanne Vincent",
+        "position": "Right fielder",
+        "AVG": 0.282,
+        "RBI": 25,
+        "valeur": 9
+    },
+    {
+        "id": 821,
+        "nom": "Tom Mathieu",
+        "position": "Shortstop",
+        "AVG": 0.232,
+        "RBI": 52,
+        "valeur": 7
+    },
+    {
+        "id": 822,
+        "nom": "Paul Michel",
+        "position": "Deuxième base",
+        "AVG": 0.293,
+        "RBI": 36,
+        "valeur": 8
+    },
+    {
+        "id": 823,
+        "nom": "Éden Michel",
+        "position": "Batteur désigné",
+        "AVG": 0.328,
+        "RBI": 55,
+        "valeur": 12
+    },
+    {
+        "id": 824,
+        "nom": "Romane Chevalier",
+        "position": "Attrapeur",
+        "AVG": 0.244,
+        "RBI": 24,
+        "valeur": 9
+    },
+    {
+        "id": 825,
+        "nom": "Isaac Lefebvre",
+        "position": "Batteur désigné",
+        "AVG": 0.273,
+        "RBI": 41,
+        "valeur": 10
+    },
+    {
+        "id": 826,
+        "nom": "Naël Clement",
+        "position": "Deuxième base",
+        "AVG": 0.215,
+        "RBI": 59,
+        "valeur": 6
+    },
+    {
+        "id": 827,
+        "nom": "Nathan Bonnet",
+        "position": "Center fielder",
+        "AVG": 0.268,
+        "RBI": 59,
+        "valeur": 15
+    },
+    {
+        "id": 828,
+        "nom": "Eliott Nicolas",
+        "position": "Batteur désigné",
+        "AVG": 0.223,
+        "RBI": 56,
+        "valeur": 10
+    },
+    {
+        "id": 829,
+        "nom": "Milo Lefevre",
+        "position": "Première base",
+        "AVG": 0.201,
+        "RBI": 35,
+        "valeur": 8
+    },
+    {
+        "id": 830,
+        "nom": "Charlotte Mathieu",
+        "position": "Left fielder",
+        "AVG": 0.242,
+        "RBI": 43,
+        "valeur": 7
+    },
+    {
+        "id": 831,
+        "nom": "Inès Roussel",
+        "position": "Shortstop",
+        "AVG": 0.332,
+        "RBI": 49,
+        "valeur": 12
+    },
+    {
+        "id": 832,
+        "nom": "Axel Masson",
+        "position": "Troisième base",
+        "AVG": 0.273,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 833,
+        "nom": "Romane Gauthier",
+        "position": "Attrapeur",
+        "AVG": 0.326,
+        "RBI": 28,
+        "valeur": 13
+    },
+    {
+        "id": 834,
+        "nom": "Théo Bertrand",
+        "position": "Attrapeur",
+        "AVG": 0.309,
+        "RBI": 21,
+        "valeur": 13
+    },
+    {
+        "id": 835,
+        "nom": "Zoé Bernard",
+        "position": "Batteur désigné",
+        "AVG": 0.287,
+        "RBI": 57,
+        "valeur": 8
+    },
+    {
+        "id": 836,
+        "nom": "Louis Chevalier",
+        "position": "Troisième base",
+        "AVG": 0.282,
+        "RBI": 54,
+        "valeur": 12
+    },
+    {
+        "id": 837,
+        "nom": "Victoria Masson",
+        "position": "Première base",
+        "AVG": 0.255,
+        "RBI": 34,
+        "valeur": 14
+    },
+    {
+        "id": 838,
+        "nom": "Sofia Fournier",
+        "position": "Première base",
+        "AVG": 0.27,
+        "RBI": 52,
+        "valeur": 6
+    },
+    {
+        "id": 839,
+        "nom": "Jade Fontaine",
+        "position": "Right fielder",
+        "AVG": 0.202,
+        "RBI": 35,
+        "valeur": 14
+    },
+    {
+        "id": 840,
+        "nom": "Lucie Simon",
+        "position": "Right fielder",
+        "AVG": 0.221,
+        "RBI": 30,
+        "valeur": 7
+    },
+    {
+        "id": 841,
+        "nom": "Victoire Francois",
+        "position": "Première base",
+        "AVG": 0.31,
+        "RBI": 50,
+        "valeur": 10
+    },
+    {
+        "id": 842,
+        "nom": "Noah Roux",
+        "position": "Center fielder",
+        "AVG": 0.235,
+        "RBI": 36,
+        "valeur": 10
+    },
+    {
+        "id": 843,
+        "nom": "Ayden Thomas",
+        "position": "Deuxième base",
+        "AVG": 0.278,
+        "RBI": 43,
+        "valeur": 11
+    },
+    {
+        "id": 844,
+        "nom": "Léna Andre",
+        "position": "Lanceur",
+        "AVG": 0.206,
+        "RBI": 40,
+        "valeur": 6
+    },
+    {
+        "id": 845,
+        "nom": "Alix Boyer",
+        "position": "Troisième base",
+        "AVG": 0.325,
+        "RBI": 36,
+        "valeur": 14
+    },
+    {
+        "id": 846,
+        "nom": "Charlie Francois",
+        "position": "Première base",
+        "AVG": 0.256,
+        "RBI": 44,
+        "valeur": 10
+    },
+    {
+        "id": 847,
+        "nom": "Adèle Robin",
+        "position": "Attrapeur",
+        "AVG": 0.277,
+        "RBI": 44,
+        "valeur": 8
+    },
+    {
+        "id": 848,
+        "nom": "Agathe Vincent",
+        "position": "Shortstop",
+        "AVG": 0.323,
+        "RBI": 42,
+        "valeur": 12
+    },
+    {
+        "id": 849,
+        "nom": "Mia Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.275,
+        "RBI": 28,
+        "valeur": 12
+    },
+    {
+        "id": 850,
+        "nom": "Noé Roux",
+        "position": "Attrapeur",
+        "AVG": 0.277,
+        "RBI": 37,
+        "valeur": 8
+    },
+    {
+        "id": 851,
+        "nom": "Léon Michel",
+        "position": "Première base",
+        "AVG": 0.254,
+        "RBI": 27,
+        "valeur": 15
+    },
+    {
+        "id": 852,
+        "nom": "Ayden Muller",
+        "position": "Shortstop",
+        "AVG": 0.308,
+        "RBI": 50,
+        "valeur": 15
+    },
+    {
+        "id": 853,
+        "nom": "Mia Mercier",
+        "position": "Deuxième base",
+        "AVG": 0.289,
+        "RBI": 46,
+        "valeur": 5
+    },
+    {
+        "id": 854,
+        "nom": "Mathis Thomas",
+        "position": "Première base",
+        "AVG": 0.286,
+        "RBI": 30,
+        "valeur": 7
+    },
+    {
+        "id": 855,
+        "nom": "Zoé Guerin",
+        "position": "Lanceur",
+        "AVG": 0.334,
+        "RBI": 29,
+        "valeur": 5
+    },
+    {
+        "id": 856,
+        "nom": "Noé Bertrand",
+        "position": "Première base",
+        "AVG": 0.277,
+        "RBI": 45,
+        "valeur": 14
+    },
+    {
+        "id": 857,
+        "nom": "Victoire Perrin",
+        "position": "Lanceur",
+        "AVG": 0.332,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 858,
+        "nom": "Nino Faure",
+        "position": "Batteur désigné",
+        "AVG": 0.349,
+        "RBI": 50,
+        "valeur": 7
+    },
+    {
+        "id": 859,
+        "nom": "Marius Muller",
+        "position": "Batteur désigné",
+        "AVG": 0.221,
+        "RBI": 57,
+        "valeur": 7
+    },
+    {
+        "id": 860,
+        "nom": "Olivia Clement",
+        "position": "Right fielder",
+        "AVG": 0.24,
+        "RBI": 41,
+        "valeur": 12
+    },
+    {
+        "id": 861,
+        "nom": "Jeanne Legrand",
+        "position": "Attrapeur",
+        "AVG": 0.234,
+        "RBI": 44,
+        "valeur": 7
+    },
+    {
+        "id": 862,
+        "nom": "Gabin Bernard",
+        "position": "Deuxième base",
+        "AVG": 0.278,
+        "RBI": 52,
+        "valeur": 15
+    },
+    {
+        "id": 863,
+        "nom": "Alba Laurent",
+        "position": "Batteur désigné",
+        "AVG": 0.214,
+        "RBI": 50,
+        "valeur": 14
+    },
+    {
+        "id": 864,
+        "nom": "Jeanne Thomas",
+        "position": "Right fielder",
+        "AVG": 0.275,
+        "RBI": 27,
+        "valeur": 6
+    },
+    {
+        "id": 865,
+        "nom": "Mia Clement",
+        "position": "Première base",
+        "AVG": 0.335,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 866,
+        "nom": "Mya Morin",
+        "position": "Left fielder",
+        "AVG": 0.278,
+        "RBI": 43,
+        "valeur": 5
+    },
+    {
+        "id": 867,
+        "nom": "Lola Boyer",
+        "position": "Left fielder",
+        "AVG": 0.234,
+        "RBI": 50,
+        "valeur": 11
+    },
+    {
+        "id": 868,
+        "nom": "Ibrahim Legrand",
+        "position": "Batteur désigné",
+        "AVG": 0.215,
+        "RBI": 28,
+        "valeur": 9
+    },
+    {
+        "id": 869,
+        "nom": "Mia Masson",
+        "position": "Deuxième base",
+        "AVG": 0.337,
+        "RBI": 25,
+        "valeur": 9
+    },
+    {
+        "id": 870,
+        "nom": "Jeanne Garnier",
+        "position": "Left fielder",
+        "AVG": 0.239,
+        "RBI": 20,
+        "valeur": 5
+    },
+    {
+        "id": 871,
+        "nom": "Luna Boyer",
+        "position": "Attrapeur",
+        "AVG": 0.278,
+        "RBI": 44,
+        "valeur": 15
+    },
+    {
+        "id": 872,
+        "nom": "Tom Nicolas",
+        "position": "Shortstop",
+        "AVG": 0.261,
+        "RBI": 26,
+        "valeur": 7
+    },
+    {
+        "id": 873,
+        "nom": "Emma Robin",
+        "position": "Batteur désigné",
+        "AVG": 0.238,
+        "RBI": 54,
+        "valeur": 11
+    },
+    {
+        "id": 874,
+        "nom": "Victoire Fontaine",
+        "position": "Batteur désigné",
+        "AVG": 0.241,
+        "RBI": 45,
+        "valeur": 8
+    },
+    {
+        "id": 875,
+        "nom": "Ambre Chevalier",
+        "position": "Right fielder",
+        "AVG": 0.272,
+        "RBI": 43,
+        "valeur": 13
+    },
+    {
+        "id": 876,
+        "nom": "Léa Mercier",
+        "position": "Troisième base",
+        "AVG": 0.348,
+        "RBI": 56,
+        "valeur": 10
+    },
+    {
+        "id": 877,
+        "nom": "Mya Henry",
+        "position": "Left fielder",
+        "AVG": 0.31,
+        "RBI": 27,
+        "valeur": 8
+    },
+    {
+        "id": 878,
+        "nom": "Romy Nicolas",
+        "position": "Première base",
+        "AVG": 0.215,
+        "RBI": 52,
+        "valeur": 11
+    },
+    {
+        "id": 879,
+        "nom": "Valentin Chevalier",
+        "position": "Batteur désigné",
+        "AVG": 0.305,
+        "RBI": 23,
+        "valeur": 7
+    },
+    {
+        "id": 880,
+        "nom": "Imran Perrin",
+        "position": "Lanceur",
+        "AVG": 0.321,
+        "RBI": 29,
+        "valeur": 12
+    },
+    {
+        "id": 881,
+        "nom": "Jeanne Lefevre",
+        "position": "Attrapeur",
+        "AVG": 0.21,
+        "RBI": 34,
+        "valeur": 10
+    },
+    {
+        "id": 882,
+        "nom": "Liam Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.309,
+        "RBI": 45,
+        "valeur": 14
+    },
+    {
+        "id": 883,
+        "nom": "Victoria Boyer",
+        "position": "Troisième base",
+        "AVG": 0.307,
+        "RBI": 58,
+        "valeur": 5
+    },
+    {
+        "id": 884,
+        "nom": "Mya Michel",
+        "position": "Center fielder",
+        "AVG": 0.266,
+        "RBI": 32,
+        "valeur": 15
+    },
+    {
+        "id": 885,
+        "nom": "Agathe Fournier",
+        "position": "Deuxième base",
+        "AVG": 0.205,
+        "RBI": 58,
+        "valeur": 13
+    },
+    {
+        "id": 886,
+        "nom": "Agathe Nicolas",
+        "position": "Deuxième base",
+        "AVG": 0.292,
+        "RBI": 22,
+        "valeur": 10
+    },
+    {
+        "id": 887,
+        "nom": "Malo Robin",
+        "position": "Lanceur",
+        "AVG": 0.346,
+        "RBI": 25,
+        "valeur": 9
+    },
+    {
+        "id": 888,
+        "nom": "Mya Vincent",
+        "position": "Shortstop",
+        "AVG": 0.3,
+        "RBI": 45,
+        "valeur": 14
+    },
+    {
+        "id": 889,
+        "nom": "Théo Boyer",
+        "position": "Lanceur",
+        "AVG": 0.311,
+        "RBI": 24,
+        "valeur": 6
+    },
+    {
+        "id": 890,
+        "nom": "Juliette Fournier",
+        "position": "Right fielder",
+        "AVG": 0.337,
+        "RBI": 42,
+        "valeur": 10
+    },
+    {
+        "id": 891,
+        "nom": "Victor Roux",
+        "position": "Batteur désigné",
+        "AVG": 0.344,
+        "RBI": 49,
+        "valeur": 11
+    },
+    {
+        "id": 892,
+        "nom": "Luna Martin",
+        "position": "Troisième base",
+        "AVG": 0.226,
+        "RBI": 52,
+        "valeur": 6
+    },
+    {
+        "id": 893,
+        "nom": "Léa Robert",
+        "position": "Right fielder",
+        "AVG": 0.244,
+        "RBI": 27,
+        "valeur": 13
+    },
+    {
+        "id": 894,
+        "nom": "Gaspard Garnier",
+        "position": "Batteur désigné",
+        "AVG": 0.238,
+        "RBI": 48,
+        "valeur": 11
+    },
+    {
+        "id": 895,
+        "nom": "Victoire Mercier",
+        "position": "Deuxième base",
+        "AVG": 0.314,
+        "RBI": 49,
+        "valeur": 15
+    },
+    {
+        "id": 896,
+        "nom": "Anna Legrand",
+        "position": "Lanceur",
+        "AVG": 0.272,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 897,
+        "nom": "Enzo Perrin",
+        "position": "Deuxième base",
+        "AVG": 0.302,
+        "RBI": 34,
+        "valeur": 10
+    },
+    {
+        "id": 898,
+        "nom": "Ambre Lambert",
+        "position": "Right fielder",
+        "AVG": 0.28,
+        "RBI": 36,
+        "valeur": 8
+    },
+    {
+        "id": 899,
+        "nom": "Rayan Richard",
+        "position": "Left fielder",
+        "AVG": 0.301,
+        "RBI": 41,
+        "valeur": 6
+    },
+    {
+        "id": 900,
+        "nom": "Juliette Michel",
+        "position": "Center fielder",
+        "AVG": 0.247,
+        "RBI": 33,
+        "valeur": 14
+    },
+    {
+        "id": 901,
+        "nom": "Lyam Michel",
+        "position": "Deuxième base",
+        "AVG": 0.275,
+        "RBI": 32,
+        "valeur": 8
+    },
+    {
+        "id": 902,
+        "nom": "Louna David",
+        "position": "Troisième base",
+        "AVG": 0.231,
+        "RBI": 32,
+        "valeur": 8
+    },
+    {
+        "id": 903,
+        "nom": "Olivia Lambert",
+        "position": "Première base",
+        "AVG": 0.317,
+        "RBI": 27,
+        "valeur": 6
+    },
+    {
+        "id": 904,
+        "nom": "Inès Clement",
+        "position": "Center fielder",
+        "AVG": 0.292,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 905,
+        "nom": "Mia Fontaine",
+        "position": "Batteur désigné",
+        "AVG": 0.247,
+        "RBI": 56,
+        "valeur": 9
+    },
+    {
+        "id": 906,
+        "nom": "Lou Michel",
+        "position": "Right fielder",
+        "AVG": 0.242,
+        "RBI": 34,
+        "valeur": 14
+    },
+    {
+        "id": 907,
+        "nom": "Naël Petit",
+        "position": "Right fielder",
+        "AVG": 0.32,
+        "RBI": 50,
+        "valeur": 13
+    },
+    {
+        "id": 908,
+        "nom": "Louis Guerin",
+        "position": "Shortstop",
+        "AVG": 0.259,
+        "RBI": 31,
+        "valeur": 12
+    },
+    {
+        "id": 909,
+        "nom": "Hugo Nicolas",
+        "position": "Right fielder",
+        "AVG": 0.269,
+        "RBI": 20,
+        "valeur": 5
+    },
+    {
+        "id": 910,
+        "nom": "Inès Leroy",
+        "position": "Left fielder",
+        "AVG": 0.287,
+        "RBI": 40,
+        "valeur": 10
+    },
+    {
+        "id": 911,
+        "nom": "Éva Bertrand",
+        "position": "Première base",
+        "AVG": 0.282,
+        "RBI": 35,
+        "valeur": 9
+    },
+    {
+        "id": 912,
+        "nom": "Léna Garcia",
+        "position": "Shortstop",
+        "AVG": 0.255,
+        "RBI": 51,
+        "valeur": 11
+    },
+    {
+        "id": 913,
+        "nom": "Tom Muller",
+        "position": "Shortstop",
+        "AVG": 0.255,
+        "RBI": 45,
+        "valeur": 9
+    },
+    {
+        "id": 914,
+        "nom": "Romy Michel",
+        "position": "Batteur désigné",
+        "AVG": 0.22,
+        "RBI": 56,
+        "valeur": 15
+    },
+    {
+        "id": 915,
+        "nom": "Ayden Durand",
+        "position": "Troisième base",
+        "AVG": 0.321,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 916,
+        "nom": "Enzo Lefebvre",
+        "position": "Première base",
+        "AVG": 0.32,
+        "RBI": 29,
+        "valeur": 12
+    },
+    {
+        "id": 917,
+        "nom": "Léo Michel",
+        "position": "Left fielder",
+        "AVG": 0.275,
+        "RBI": 60,
+        "valeur": 13
+    },
+    {
+        "id": 918,
+        "nom": "Inaya Roussel",
+        "position": "Shortstop",
+        "AVG": 0.318,
+        "RBI": 39,
+        "valeur": 9
+    },
+    {
+        "id": 919,
+        "nom": "Léa Francois",
+        "position": "Lanceur",
+        "AVG": 0.26,
+        "RBI": 30,
+        "valeur": 5
+    },
+    {
+        "id": 920,
+        "nom": "Nino Bertrand",
+        "position": "Center fielder",
+        "AVG": 0.326,
+        "RBI": 26,
+        "valeur": 12
+    },
+    {
+        "id": 921,
+        "nom": "Margaux Dupont",
+        "position": "Troisième base",
+        "AVG": 0.254,
+        "RBI": 55,
+        "valeur": 13
+    },
+    {
+        "id": 922,
+        "nom": "Gaspard Lambert",
+        "position": "Lanceur",
+        "AVG": 0.262,
+        "RBI": 42,
+        "valeur": 15
+    },
+    {
+        "id": 923,
+        "nom": "Nina Lefebvre",
+        "position": "Batteur désigné",
+        "AVG": 0.286,
+        "RBI": 54,
+        "valeur": 7
+    },
+    {
+        "id": 924,
+        "nom": "Mya Fournier",
+        "position": "Shortstop",
+        "AVG": 0.249,
+        "RBI": 52,
+        "valeur": 12
+    },
+    {
+        "id": 925,
+        "nom": "Mya Mathieu",
+        "position": "Center fielder",
+        "AVG": 0.333,
+        "RBI": 44,
+        "valeur": 14
+    },
+    {
+        "id": 926,
+        "nom": "Rayan Andre",
+        "position": "Première base",
+        "AVG": 0.33,
+        "RBI": 60,
+        "valeur": 10
+    },
+    {
+        "id": 927,
+        "nom": "Alba Perrin",
+        "position": "Batteur désigné",
+        "AVG": 0.286,
+        "RBI": 24,
+        "valeur": 6
+    },
+    {
+        "id": 928,
+        "nom": "Paul Dupont",
+        "position": "Deuxième base",
+        "AVG": 0.247,
+        "RBI": 38,
+        "valeur": 9
+    },
+    {
+        "id": 929,
+        "nom": "Nina Robin",
+        "position": "Left fielder",
+        "AVG": 0.241,
+        "RBI": 48,
+        "valeur": 10
+    },
+    {
+        "id": 930,
+        "nom": "Margaux Legrand",
+        "position": "Right fielder",
+        "AVG": 0.345,
+        "RBI": 46,
+        "valeur": 7
+    },
+    {
+        "id": 931,
+        "nom": "Ethan Bernard",
+        "position": "Première base",
+        "AVG": 0.309,
+        "RBI": 36,
+        "valeur": 6
+    },
+    {
+        "id": 932,
+        "nom": "Tom Simon",
+        "position": "Left fielder",
+        "AVG": 0.215,
+        "RBI": 24,
+        "valeur": 12
+    },
+    {
+        "id": 933,
+        "nom": "Juliette Petit",
+        "position": "Lanceur",
+        "AVG": 0.316,
+        "RBI": 53,
+        "valeur": 6
+    },
+    {
+        "id": 934,
+        "nom": "Gabin Bertrand",
+        "position": "Batteur désigné",
+        "AVG": 0.223,
+        "RBI": 44,
+        "valeur": 9
+    },
+    {
+        "id": 935,
+        "nom": "Ayden David",
+        "position": "Troisième base",
+        "AVG": 0.266,
+        "RBI": 28,
+        "valeur": 7
+    },
+    {
+        "id": 936,
+        "nom": "Iris Simon",
+        "position": "Lanceur",
+        "AVG": 0.205,
+        "RBI": 42,
+        "valeur": 10
+    },
+    {
+        "id": 937,
+        "nom": "Léna Andre",
+        "position": "Right fielder",
+        "AVG": 0.34,
+        "RBI": 55,
+        "valeur": 12
+    },
+    {
+        "id": 938,
+        "nom": "Aaron Nicolas",
+        "position": "Right fielder",
+        "AVG": 0.227,
+        "RBI": 58,
+        "valeur": 12
+    },
+    {
+        "id": 939,
+        "nom": "Zoé Mathieu",
+        "position": "Batteur désigné",
+        "AVG": 0.265,
+        "RBI": 60,
+        "valeur": 15
+    },
+    {
+        "id": 940,
+        "nom": "Inaya Girard",
+        "position": "Shortstop",
+        "AVG": 0.272,
+        "RBI": 34,
+        "valeur": 6
+    },
+    {
+        "id": 941,
+        "nom": "Alice Girard",
+        "position": "Shortstop",
+        "AVG": 0.262,
+        "RBI": 29,
+        "valeur": 9
+    },
+    {
+        "id": 942,
+        "nom": "Léo Martin",
+        "position": "Right fielder",
+        "AVG": 0.322,
+        "RBI": 28,
+        "valeur": 10
+    },
+    {
+        "id": 943,
+        "nom": "Rayan Mercier",
+        "position": "Right fielder",
+        "AVG": 0.201,
+        "RBI": 51,
+        "valeur": 12
+    },
+    {
+        "id": 944,
+        "nom": "Timéo Martin",
+        "position": "Left fielder",
+        "AVG": 0.32,
+        "RBI": 58,
+        "valeur": 8
+    },
+    {
+        "id": 945,
+        "nom": "Gabriel Chevalier",
+        "position": "Shortstop",
+        "AVG": 0.228,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 946,
+        "nom": "Jade David",
+        "position": "Première base",
+        "AVG": 0.307,
+        "RBI": 44,
+        "valeur": 11
+    },
+    {
+        "id": 947,
+        "nom": "Marius Bertrand",
+        "position": "Attrapeur",
+        "AVG": 0.263,
+        "RBI": 35,
+        "valeur": 13
+    },
+    {
+        "id": 948,
+        "nom": "Éléna Garcia",
+        "position": "Troisième base",
+        "AVG": 0.243,
+        "RBI": 54,
+        "valeur": 9
+    },
+    {
+        "id": 949,
+        "nom": "Ambre Lefebvre",
+        "position": "Attrapeur",
+        "AVG": 0.227,
+        "RBI": 38,
+        "valeur": 6
+    },
+    {
+        "id": 950,
+        "nom": "Léonie Andre",
+        "position": "Batteur désigné",
+        "AVG": 0.268,
+        "RBI": 59,
+        "valeur": 12
+    },
+    {
+        "id": 951,
+        "nom": "Nathan Bonnet",
+        "position": "Lanceur",
+        "AVG": 0.223,
+        "RBI": 54,
+        "valeur": 5
+    },
+    {
+        "id": 952,
+        "nom": "Ethan Durand",
+        "position": "Troisième base",
+        "AVG": 0.24,
+        "RBI": 48,
+        "valeur": 5
+    },
+    {
+        "id": 953,
+        "nom": "Ayden Richard",
+        "position": "Première base",
+        "AVG": 0.202,
+        "RBI": 33,
+        "valeur": 10
+    },
+    {
+        "id": 954,
+        "nom": "Alba Girard",
+        "position": "Center fielder",
+        "AVG": 0.35,
+        "RBI": 49,
+        "valeur": 5
+    },
+    {
+        "id": 955,
+        "nom": "Tiago Richard",
+        "position": "Première base",
+        "AVG": 0.208,
+        "RBI": 45,
+        "valeur": 6
+    },
+    {
+        "id": 956,
+        "nom": "Charlie Mercier",
+        "position": "Première base",
+        "AVG": 0.229,
+        "RBI": 36,
+        "valeur": 11
+    },
+    {
+        "id": 957,
+        "nom": "Léo Dubois",
+        "position": "Deuxième base",
+        "AVG": 0.258,
+        "RBI": 48,
+        "valeur": 8
+    },
+    {
+        "id": 958,
+        "nom": "Louna Thomas",
+        "position": "Deuxième base",
+        "AVG": 0.269,
+        "RBI": 26,
+        "valeur": 13
+    },
+    {
+        "id": 959,
+        "nom": "Lya Leroy",
+        "position": "Center fielder",
+        "AVG": 0.258,
+        "RBI": 39,
+        "valeur": 10
+    },
+    {
+        "id": 960,
+        "nom": "Paul Perrin",
+        "position": "Lanceur",
+        "AVG": 0.312,
+        "RBI": 55,
+        "valeur": 13
+    },
+    {
+        "id": 961,
+        "nom": "Hugo Bertrand",
+        "position": "Center fielder",
+        "AVG": 0.296,
+        "RBI": 32,
+        "valeur": 10
+    },
+    {
+        "id": 962,
+        "nom": "Jules Clement",
+        "position": "Deuxième base",
+        "AVG": 0.346,
+        "RBI": 35,
+        "valeur": 15
+    },
+    {
+        "id": 963,
+        "nom": "Rose Bonnet",
+        "position": "Lanceur",
+        "AVG": 0.225,
+        "RBI": 37,
+        "valeur": 14
+    },
+    {
+        "id": 964,
+        "nom": "Hugo Vincent",
+        "position": "Deuxième base",
+        "AVG": 0.201,
+        "RBI": 22,
+        "valeur": 14
+    },
+    {
+        "id": 965,
+        "nom": "Lyana Mercier",
+        "position": "Batteur désigné",
+        "AVG": 0.223,
+        "RBI": 25,
+        "valeur": 8
+    },
+    {
+        "id": 966,
+        "nom": "Paul Blanc",
+        "position": "Attrapeur",
+        "AVG": 0.303,
+        "RBI": 41,
+        "valeur": 15
+    },
+    {
+        "id": 967,
+        "nom": "Arthur Petit",
+        "position": "Shortstop",
+        "AVG": 0.297,
+        "RBI": 54,
+        "valeur": 6
+    },
+    {
+        "id": 968,
+        "nom": "Naël Blanc",
+        "position": "Deuxième base",
+        "AVG": 0.248,
+        "RBI": 55,
+        "valeur": 15
+    },
+    {
+        "id": 969,
+        "nom": "Ava Lambert",
+        "position": "Center fielder",
+        "AVG": 0.31,
+        "RBI": 21,
+        "valeur": 11
+    },
+    {
+        "id": 970,
+        "nom": "Axel Roussel",
+        "position": "Première base",
+        "AVG": 0.238,
+        "RBI": 22,
+        "valeur": 12
+    },
+    {
+        "id": 971,
+        "nom": "Alix Faure",
+        "position": "Right fielder",
+        "AVG": 0.244,
+        "RBI": 51,
+        "valeur": 8
+    },
+    {
+        "id": 972,
+        "nom": "Victoire Michel",
+        "position": "Right fielder",
+        "AVG": 0.252,
+        "RBI": 49,
+        "valeur": 9
+    },
+    {
+        "id": 973,
+        "nom": "Jeanne Chevalier",
+        "position": "Première base",
+        "AVG": 0.21,
+        "RBI": 29,
+        "valeur": 12
+    },
+    {
+        "id": 974,
+        "nom": "Elio Bertrand",
+        "position": "Right fielder",
+        "AVG": 0.255,
+        "RBI": 20,
+        "valeur": 15
+    },
+    {
+        "id": 975,
+        "nom": "Chloé Rousseau",
+        "position": "Première base",
+        "AVG": 0.332,
+        "RBI": 59,
+        "valeur": 10
+    },
+    {
+        "id": 976,
+        "nom": "Mya Garcia",
+        "position": "Deuxième base",
+        "AVG": 0.248,
+        "RBI": 24,
+        "valeur": 15
+    },
+    {
+        "id": 977,
+        "nom": "Inaya Rousseau",
+        "position": "Deuxième base",
+        "AVG": 0.279,
+        "RBI": 51,
+        "valeur": 13
+    },
+    {
+        "id": 978,
+        "nom": "Léon Garcia",
+        "position": "Troisième base",
+        "AVG": 0.248,
+        "RBI": 40,
+        "valeur": 6
+    },
+    {
+        "id": 979,
+        "nom": "Isaac Boyer",
+        "position": "Attrapeur",
+        "AVG": 0.207,
+        "RBI": 28,
+        "valeur": 7
+    },
+    {
+        "id": 980,
+        "nom": "Louis Lefebvre",
+        "position": "Attrapeur",
+        "AVG": 0.273,
+        "RBI": 26,
+        "valeur": 5
+    },
+    {
+        "id": 981,
+        "nom": "Luna Robin",
+        "position": "Left fielder",
+        "AVG": 0.299,
+        "RBI": 53,
+        "valeur": 14
+    },
+    {
+        "id": 982,
+        "nom": "Lola Legrand",
+        "position": "Troisième base",
+        "AVG": 0.207,
+        "RBI": 34,
+        "valeur": 14
+    },
+    {
+        "id": 983,
+        "nom": "Charlotte Robert",
+        "position": "Lanceur",
+        "AVG": 0.34,
+        "RBI": 33,
+        "valeur": 15
+    },
+    {
+        "id": 984,
+        "nom": "Lou Richard",
+        "position": "Center fielder",
+        "AVG": 0.32,
+        "RBI": 23,
+        "valeur": 10
+    },
+    {
+        "id": 985,
+        "nom": "Léa Mathieu",
+        "position": "Left fielder",
+        "AVG": 0.323,
+        "RBI": 23,
+        "valeur": 14
+    },
+    {
+        "id": 986,
+        "nom": "Lyam Boyer",
+        "position": "Lanceur",
+        "AVG": 0.31,
+        "RBI": 39,
+        "valeur": 6
+    },
+    {
+        "id": 987,
+        "nom": "Nino Boyer",
+        "position": "Attrapeur",
+        "AVG": 0.215,
+        "RBI": 34,
+        "valeur": 13
+    },
+    {
+        "id": 988,
+        "nom": "Imran Lefebvre",
+        "position": "Deuxième base",
+        "AVG": 0.279,
+        "RBI": 35,
+        "valeur": 14
+    },
+    {
+        "id": 989,
+        "nom": "Zoé Michel",
+        "position": "Right fielder",
+        "AVG": 0.312,
+        "RBI": 46,
+        "valeur": 6
+    },
+    {
+        "id": 990,
+        "nom": "Emy Perrin",
+        "position": "Batteur désigné",
+        "AVG": 0.254,
+        "RBI": 49,
+        "valeur": 15
+    },
+    {
+        "id": 991,
+        "nom": "Emma Durand",
+        "position": "Première base",
+        "AVG": 0.319,
+        "RBI": 55,
+        "valeur": 11
+    },
+    {
+        "id": 992,
+        "nom": "Chloé Dupont",
+        "position": "Première base",
+        "AVG": 0.28,
+        "RBI": 58,
+        "valeur": 12
+    },
+    {
+        "id": 993,
+        "nom": "Axel Bonnet",
+        "position": "Right fielder",
+        "AVG": 0.349,
+        "RBI": 40,
+        "valeur": 10
+    },
+    {
+        "id": 994,
+        "nom": "Ambre Gautier",
+        "position": "Left fielder",
+        "AVG": 0.324,
+        "RBI": 40,
+        "valeur": 14
+    },
+    {
+        "id": 995,
+        "nom": "Malo Francois",
+        "position": "Right fielder",
+        "AVG": 0.232,
+        "RBI": 55,
+        "valeur": 9
+    },
+    {
+        "id": 996,
+        "nom": "Augustin Faure",
+        "position": "Center fielder",
+        "AVG": 0.344,
+        "RBI": 20,
+        "valeur": 5
+    },
+    {
+        "id": 997,
+        "nom": "Rayan Gauthier",
+        "position": "Lanceur",
+        "AVG": 0.278,
+        "RBI": 39,
+        "valeur": 5
+    },
+    {
+        "id": 998,
+        "nom": "Timéo Roux",
+        "position": "Deuxième base",
+        "AVG": 0.328,
+        "RBI": 21,
+        "valeur": 9
+    },
+    {
+        "id": 999,
+        "nom": "Juliette Guerin",
+        "position": "Right fielder",
+        "AVG": 0.286,
+        "RBI": 56,
+        "valeur": 7
+    },
+    {
+        "id": 1000,
+        "nom": "Isaac Thomas",
+        "position": "Center fielder",
+        "AVG": 0.253,
+        "RBI": 28,
+        "valeur": 9
+    }
+]
