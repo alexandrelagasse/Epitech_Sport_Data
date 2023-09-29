@@ -23,10 +23,8 @@ Python est un langage de programmation populaire et puissant utilisé dans de no
 
 ### Création du projet
 
-1. Créez un nouveau dossier pour votre projet.
-2. Ouvrez le dossier dans VS Code.
-3. Créez un nouveau fichier `main.py`.
-4. Créez un nouveau fichier `requirements.txt`.
+1. Ouvrez le dossier dans VS Code qui est dans le bureau nom : fête de la science.
+2. Ouvez le  fichier `joueur.py`.
 
 Maintenant que vous avez créé votre projet, vous pouvez commencer à écrire du code.
 
@@ -34,7 +32,7 @@ Vous allez importer les 2 paquets nécessaires à votre projet : json et random.
 
 ### Importation des paquets
 
-1. Ouvrez le fichier `main.py`.
+1. Ouvrez le fichier `joueur.py`.
 2. Importez le paquet json en tapant `import json`.
 3. Importez le paquet random en tapant `import random`.
 4. ajouter la ligne random.seed(42) pour que les données générées soient toujours les mêmes.
