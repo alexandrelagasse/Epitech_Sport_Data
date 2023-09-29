@@ -102,5 +102,18 @@ with open('datasport/src/data.json', 'w', encoding="utf-8") as file:
 print("JSON généré avec succès!")
 ```
 
+### Exécution du programme dans le terminal
+
+Pour ouvrir le terminal, cliquez sur le menu Terminal, puis sur New Terminal.
+
+```bash
+python3 joueur.py
+```
+
+Bravo vous avez généré votre fichier JSON.
+
+
+
+
 
 
