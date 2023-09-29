@@ -35,7 +35,6 @@ for i in range(1000):
         "position": random.choice(positions),
         "AVG": round(random.uniform(0.200, 0.350), 3),
         "RBI": random.randint(20, 60),
-        "valeur": random.randint(5, 15)
     }
     joueurs.append(joueur)
 
