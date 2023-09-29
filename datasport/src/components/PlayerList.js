@@ -25,9 +25,6 @@ function PlayerList({ players }) {
     const handleColumnClick = column => {
       setSortBy(column);
       if (sortOrder === '' || sortOrder === 'desc') {
-
-        // La balise // permet de mettre un commentaire dans javascript
-
         //setSortOrder('asc');
       } else {
         setSortOrder('desc');
@@ -93,9 +90,6 @@ function PlayerList({ players }) {
                  }
                 
               <td>{player.nom}</td>
-              <td>{player.position}</td>
-              <td>{player.AVG}</td>
-              <td>{player.RBI}</td>
             </tr>
           ))}
         </tbody>
