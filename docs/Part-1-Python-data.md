@@ -87,6 +87,8 @@ Commencez par créer une boucle `for` qui générera les données pour 1000 joue
 - "RBI" : les points produits par le joueur, un nombre entier entre 20 et 60.
 - "valeur" : la valeur du joueur, un nombre entier entre 5 et 15.
 
+- Pensez au random sur vos valeurs.
+
 ### 2. Création du fichier JSON
 
 Une fois que vous avez généré les données pour les joueurs, vous devez les sauvegarder dans un fichier JSON. Utilisez le code suivant pour le faire :
