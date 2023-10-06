@@ -7,7 +7,7 @@ Dans cette partie, nous allons créer le fichier `PlayerList.js`, dans le sous d
 
 Ce fichier sera essentiel pour notre application web, car il gérera l'affichage de la liste des joueurs de baseball.
 
-### 1 - Importation des modules React
+### Tâche 1 - Importation des modules React
 
 Pour commencer, nous allons importer les modules React nécessaires dans notre fichier `PlayerList.js` et initialiser certaines variables.
 
@@ -24,7 +24,7 @@ Pour commencer, nous allons importer les modules React nécessaires dans notre f
 
 -   `import React, { useState } from 'react';` : Nous importons React et la fonction `useState` qui nous permettra de gérer l'état de notre composant.
 
-### 2 - Filtrage et tri des joueurs
+### Tâche 2 - Filtrage et tri des joueurs
 
 Nous allons maintenant ajouter le code qui filtrera et triera la liste des joueurs en fonction de certains critères, tels que la recherche par nom, la position et le tri par moyenne (AVG) ou points marqués (RBI).
 
@@ -60,10 +60,10 @@ Nous allons maintenant ajouter le code qui filtrera et triera la liste des joueu
 -   Pour finir, nous déclarons une fonction `handleColumnClick` qui gère le tri des données lorsque l'utilisateur clique sur les en-têtes de colonne.
 > Un petit problème s'est glissé dans cette dernière fonction !
 
-### 3 - Gestion des interactions utilisateur
+### Tâche 3 - Gestion des interactions utilisateur
 
 Maintenant, nous allons ajouter le code qui gère les interactions utilisateur, telles que la recherche par nom, la sélection de la position et le tri des données.
-
+Qu'est-ce qu'on est sensé remplir dans le module < input > ?
 
     return (
         <div className="container mt-4">
@@ -71,7 +71,7 @@ Maintenant, nous allons ajouter le code qui gère les interactions utilisateur, 
     
             <div className="filters mb-3">
                 <input
-                    type="text"
+                    type="?"
                     className="form-control"
                     placeholder="Rechercher par nom"
                     value={search}
@@ -133,7 +133,7 @@ Maintenant, nous allons ajouter le code qui gère les interactions utilisateur, 
 -   Nous utilisons des éléments HTML tels que `<input>` et `<select>` pour permettre à l'utilisateur de filtrer les données.
 -   Nous gérons également le tri des données lorsque l'utilisateur clique sur les en-têtes de colonne.
 
-### 4 - Nous refermons la fonction `PlayerList`
+#### Ensuite, nous refermons la fonction `PlayerList`
 
     }
 
