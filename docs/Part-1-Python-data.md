@@ -99,6 +99,7 @@ import json
 with open('datasport/src/data.json', 'w', encoding="utf-8") as file:
     json.dump(joueurs, file, ensure_ascii=False, indent=4)
 
+```
 
 ### affichage du fichier JSON
 
