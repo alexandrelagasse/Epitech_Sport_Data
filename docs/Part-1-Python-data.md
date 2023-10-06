@@ -71,8 +71,6 @@ positions = ["Lanceur", "Attrapeur", "Première base", "Deuxième base", "Troisi
 joueurs = []
 ```
 
-### Création de la partie de génération de données
-
 ## Exercice de Génération de Données en Python
 
 L'objectif de cet exercice est de créer un programme Python qui génère des données pour une équipe de baseball. Vous devrez créer des joueurs avec des informations telles que leur nom, leur position, leur moyenne de coups sûrs (AVG), leurs points produits (RBI) et leur valeur. Voici les étapes pour accomplir cette tâche :
