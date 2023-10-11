@@ -4,7 +4,7 @@
 
 Python est un langage de programmation populaire et puissant utilisé dans de nombreux domaines, y compris la programmation de jeux, la création de sites Web, la science des données et plus encore. Voici comment installer Python sur votre ordinateur.
 
-![script](assets/script.png)
+![script](../assets/script.png)
 
 ### Installation
 

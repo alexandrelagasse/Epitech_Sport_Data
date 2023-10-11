@@ -1,7 +1,7 @@
 
 # Fête de la science Epitech - Partie 2
 
-![Result](assets/resultSite.png)
+![Result](../assets/resultSite.png)
 
 ## Création du fichier PlayerList.js
 
