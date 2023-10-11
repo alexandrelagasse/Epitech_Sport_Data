@@ -4,6 +4,8 @@
 
 Python est un langage de programmation populaire et puissant utilisé dans de nombreux domaines, y compris la programmation de jeux, la création de sites Web, la science des données et plus encore. Voici comment installer Python sur votre ordinateur.
 
+![script](assets/script.png)
+
 ### Installation
 
 #### Windows
@@ -71,29 +73,34 @@ positions = ["Lanceur", "Attrapeur", "Première base", "Deuxième base", "Troisi
 joueurs = []
 ```
 
-### Création de la partie de génération de données
+## Exercice de Génération de Données en Python
 
-```bash
-# Création de la partie de génération de données
+L'objectif de cet exercice est de créer un programme Python qui génère des données pour une équipe de baseball. Vous devrez créer des joueurs avec des informations telles que leur nom, leur position, leur moyenne de coups sûrs (AVG), leurs points produits (RBI) et leur valeur. Voici les étapes pour accomplir cette tâche :
 
-for i in range(1000):
-    joueur = {
-        "id": i + 1,
-        "nom": f"{random.choice(prenoms)} {random.choice(noms_de_famille)}",
-        "position": random.choice(positions),
-        "AVG": round(random.uniform(0.200, 0.350), 3),
-        "RBI": random.randint(20, 60),
-        "valeur": random.randint(5, 15)
-    }
-    joueurs.append(joueur)
+### 1. Création de la boucle de génération de données
 
-```
+Commencez par créer une boucle `for` qui générera les données pour 1000 joueurs. Chaque joueur sera représenté par un dictionnaire contenant les informations suivantes :
+- "id" : un identifiant unique pour chaque joueur (de 1 à 1000).
+- "nom" : le nom du joueur, qui est une combinaison aléatoire d'un prénom et d'un nom de famille.
+- "position" : la position du joueur sur le terrain, qui sera sélectionnée de manière aléatoire à partir d'une liste de positions possibles.
+- "AVG" : la moyenne de coups sûrs du joueur, qui sera un nombre décimal arrondi entre 0.200 et 0.350.
+- "RBI" : les points produits par le joueur, un nombre entier entre 20 et 60.
+- "valeur" : la valeur du joueur, un nombre entier entre 5 et 15.
 
-### Création du fichier JSON
+- Pensez au random sur vos valeurs.
 
-```bash
+### 2. Création du fichier JSON
+
+Une fois que vous avez généré les données pour les joueurs, vous devez les sauvegarder dans un fichier JSON. Utilisez le code suivant pour le faire :
+
+```python
+import json
+
+# ...
+
 with open('datasport/src/data.json', 'w', encoding="utf-8") as file:
     json.dump(joueurs, file, ensure_ascii=False, indent=4)
+
 ```
 
 ### affichage du fichier JSON

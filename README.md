@@ -29,7 +29,7 @@ Une fois téléchargé, extrayez les fichiers et placez-les dans un répertoire 
 
 Ici, nous allons apprendre comment créer un script Python simple pour générer des données fictives pour nos joueurs de baseball. Ce script nous permettra d'avoir une base de données à utiliser pour notre application React.
 
-### [Partie 2 : Application React pour afficher les données](/docs/partie2.md)
+### [Partie 2 : Application React pour afficher les données](/docs/Part-2-Javascript.md)
 
 Une fois nos données prêtes, nous allons développer une application React pour les afficher. Cette application nous aidera également à trouver la meilleure équipe en fonction des statistiques générées.
 
