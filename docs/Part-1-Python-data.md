@@ -23,7 +23,7 @@ Python est un langage de programmation populaire et puissant utilisé dans de no
 
 ### Création du projet
 
-1. Ouvrez le dossier dans VS Code qui est dans le bureau nom : fête de la science.
+1. Ouvrez le dossier dans VS Code que vous avez installer juste avant.
 2. Ouvez le  fichier `joueur.py`.
 
 Maintenant que vous avez créé votre projet, vous pouvez commencer à écrire du code.
