@@ -87,25 +87,36 @@ Commencez par créer une boucle `for` qui générera les données pour 1000 joue
 
 - Pensez au random sur vos valeurs.
 
-### 2. Création du fichier JSON
+- ### Création de la partie de génération de données
 
-Une fois que vous avez généré les données pour les joueurs, vous devez les sauvegarder dans un fichier JSON. Utilisez le code suivant pour le faire :
+ ```bash
+ # Création de la partie de génération de données
 
-```python
-import json
+ for i in range(1000):
+     joueur = {
+         "id": i + 1,
+         "nom": f"{random.choice(prenoms)} {random.choice(noms_de_famille)}",
+         "position": random.choice(positions),
+         "AVG": round(random.uniform(0.200, 0.350), 3),
+         "RBI": random.randint(20, 60),
+         "valeur": random.randint(5, 15)
+     }
+     joueurs.append(joueur)
 
-# ...
+ ```
 
-with open('datasport/src/data.json', 'w', encoding="utf-8") as file:
-    json.dump(joueurs, file, ensure_ascii=False, indent=4)
+ ### Création du fichier JSON
 
-```
+ ```bash
+ with open('datasport/src/data.json', 'w', encoding="utf-8") as file:
+     json.dump(joueurs, file, ensure_ascii=False, indent=4)
+ ```
 
-### affichage du fichier JSON
+ ### affichage du fichier JSON
 
-```bash
-print("JSON généré avec succès!")
-```
+ ```bash
+ print("JSON généré avec succès!")
+ ```
 
 ### Exécution du programme dans le terminal
 
